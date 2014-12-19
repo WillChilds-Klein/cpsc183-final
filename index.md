@@ -14,7 +14,7 @@ title: Priority Rules, Revisited
 Welcome
 -------
 
-<script>
+<!-- <script>
     d3.json('data/ufo-sightings.json', function(data) {
         data_graphic({
             title: "UFO Sightings",
@@ -28,11 +28,11 @@ Welcome
             markers: [{'year': 1964, 'label': '"The Creeping Terror" released'}]
         })
     })
-</script>
+</script> -->
 
-<div class='container' style='width: 680px'>
+<!-- <div class='container' style='width: 680px'> -->
     <div id='ufo-sightings'></div>
-</div>
+<!-- </div> -->
 
 Notes
 =====

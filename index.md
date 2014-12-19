@@ -1,3 +1,7 @@
+---
+title: Priority Rules, Revisited
+---
+
 <link href='https://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css' rel='stylesheet' type='text/css'>
 <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
 <link href='css/metricsgraphics.css' rel='stylesheet' type='text/css'>
@@ -6,10 +10,6 @@
 <script src='js/metricsgraphics.min.js'></script>
 
 <script src='js/main.js'></script>
-
----
-title: Priority Rules, Revisited
----
 
 Welcome
 -------

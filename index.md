@@ -31,7 +31,9 @@ Welcome
 </script> -->
 
 <!-- <div class='container' style='width: 680px'> -->
-    <div id='ufo-sightings'></div>
+
+<div id='ufo-sightings'></div>
+
 <!-- </div> -->
 
 Notes

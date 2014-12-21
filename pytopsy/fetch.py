@@ -48,9 +48,8 @@ def build_queries(api_key, keyword_lists, conjunctions=[], slice=86400, cumulati
         if conj not in VALID_CONJUNTIONS:
             print 'invalid conjunction: %s, replacing with: \'\'' % conj
             conj = ''
-    
     for i in range(len(keyword_lists) - len(conjunctions)):
-        conjunctions.append('')
+        conjunctions.append('OR')
 
     queries = []
 
@@ -140,8 +139,3 @@ def write_responses(responses, out_names=[], out_dir='data/responses'):
 
     print 'all files written!'
     return out_paths
-
-
-
-
-

@@ -49,7 +49,7 @@ def build_queries(api_key, keyword_lists, conjunctions=[], slice=86400, cumulati
             print 'invalid conjunction: %s, replacing with: \'\'' % conj
             conj = ''
     
-    for i in range (len(keyword_lists) - len(conjunctions)):
+    for i in range(len(keyword_lists) - len(conjunctions)):
         conjunctions.append('')
 
     queries = []
@@ -59,7 +59,7 @@ def build_queries(api_key, keyword_lists, conjunctions=[], slice=86400, cumulati
         conjunction_str = ' ' + conjunction + ' '
 
         for keyword in keyword_list:
-            query_str += conjunction_str
+            query_str += keyword + conjunction_str
         if query_str.endswith(conjunction_str):
             query_str = query_str[:-1*len(conjunction_str)] 
 
@@ -77,13 +77,14 @@ def build_queries(api_key, keyword_lists, conjunctions=[], slice=86400, cumulati
     
 
 
-def send_queries(api_type, api_name, queries, response_format='json'):
+def send_queries(api_type, api_name, queries, response_format=JSON_APPENDAGE):
     if api_type.strip('/') not in VALID_API_TYPES:
         print ('please specify valid api_type in: %s' % 
                 pprint.pformat(VALID_API_TYPES))
         return []
     # TODO: check for valid api_name...long list...
     # TODO: check for valid resposnse format.
+    response_format = response_format.lstrip('.')
 
     url = str(posixpath.join(posixpath.join(BASE_TOPSY_URL, api_type),
                              api_name))
@@ -108,5 +109,39 @@ def send_queries(api_type, api_name, queries, response_format='json'):
     return responses
 
 
-def write_response():
-    print 'blah'
+def write_responses(responses, out_names=[], out_dir='data/responses'):
+
+    if len(out_names) < len(responses):
+        for i in range(len(out_names), len(responses)):
+            response = responses[i]
+            try:
+                q  = response['request']['parameters']['q']
+            except NameError:
+                print ('whoops! bad response: %s' % 
+                        pformat(response['request']['parameters'], indent=2))
+            else:
+                query_str = ''
+                for query in q:
+                    query_str += query
+                query_str = query_str.strip()
+
+                out_name = re.sub('[\W]+', '_', query_str) + JSON_APPENDAGE
+                out_names.append(out_name)
+
+
+    out_paths = []
+    for response, out_name in zip(responses, out_names):
+            out_path = os.path.join(out_dir, out_name)
+
+            with open(out_path, 'w') as out_file:
+                json.dump(response, out_file, indent=2, separators=(',', ':'))
+            print 'wrote file %s' % out_path
+            out_paths.append(out_path)
+
+    print 'all files written!'
+    return out_paths
+
+
+
+
+

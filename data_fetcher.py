@@ -62,30 +62,6 @@ def run():
                                   outfilename='mentions_data.json')
 
 
-def build_mentions_queries(keyword_lists, slice=86400, cumulative=0, 
-                         mintime=BASE_MINTIME, maxtime=BASE_MAXTIME):
-    queries = []
-
-    for keyword_list in keyword_lists:
-        query_str = ''
-        for keyword in keyword_list:
-            query_str += (keyword + ' OR ')
-
-        if query_str.endswith(' OR '):
-            query_str = query_str[:-4]
-    
-        query = {}
-        query['apikey'] = API_KEY
-        query['q'] = query_str
-        query['slice'] = slice
-        query['cumulative'] = cumulative
-        query['mintime'] = mintime
-        query['maxtime'] = maxtime
-
-        queries.append(query)
-
-    return queries
-
 def clean_mentions_data(filenames, path='./'):
     clean_filenames = []
 
@@ -139,47 +115,6 @@ def merge_files(filenames, path='./', outfilename='merged.json'):
         json.dump(merged, outfile, indent=2, separators=(',', ':'))
         print 'files successfully merged into %s' % outfilename
 
-
-def make_requests(base_url, queries):
-    responses = []
-
-    for query in queries:
-        r = requests.get(base_url, params=query)
-        print '-' * 35 + '\n'
-        print 'REQUEST: %s' % r.url
-        print 'STATUS: %s' % r.status_code
-        print 'RESPONSE HEADERS: %s' % r.headers['content-type']
-        responses.append(r.json())
-    print '-' * 35 + '\n\n'
-
-    return responses
-
-def write_raw_files(responses, path=('./')):
-    if path == None or path == '':
-        return
-
-    filenames = []
-    for response in responses:
-        query_str = ''
-        try:
-            q  = response['request']['parameters']['q']
-        except NameError:
-            print 'whoops! bad response: %s' % pformat(response, indent=2)
-        else:
-            for query in q:
-                query_str += query
-
-            filename = re.sub('[^#^a-z^A-Z^0-9]', '', query_str) 
-            filename = re.sub('OR', '-OR-', filename) + JSON_APPENDAGE
-            filepath = os.path.join(path, filename)
-
-            with open(filepath, 'w') as outfile:
-                json.dump(response, outfile, indent=2, separators=(',', ':'))
-            print 'wrote file %s' % filepath
-            filenames.append(filename)
-
-    print 'all files written!'
-    return filenames
 
 if __name__ == "__main__":
     run()

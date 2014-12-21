@@ -14,7 +14,6 @@ Welcome
 -------
 
 <div class='container' style='width: 1400px'>
-    <div id='ufo-sightings'></div>
     <div id='mentions'></div>
     <div id='mentions_legend'></div>
 </div>

@@ -32,7 +32,7 @@ $(document).ready(function() {
             area: false,
             legend: ['"Patent Troll" or #PatentTroll',
                      '"pae" or #pae',
-                     '"pme" or #nme', 
+                     '"pme" or #pme', 
                      '"npe" or #npe'
                     ],
             legend_target: '#mentions_legend',

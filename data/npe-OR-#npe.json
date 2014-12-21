@@ -40,7 +40,7 @@
             "mentions":53.0
           },
           "average":{
-            "mentions":646.6387074596081
+            "mentions":646.7335854245446
           },
           "peakiness":{
             "mentions":0
@@ -49,13 +49,13 @@
             "mentions":1381968000
           },
           "stddev":{
-            "mentions":803.431455426513
+            "mentions":804.1463356633418
           },
           "total":{
-            "mentions":1881072
+            "mentions":1881348
           },
           "momentum":{
-            "mentions":2878040
+            "mentions":2878462
           }
         },
         "display_query":"",
@@ -5087,7 +5087,7 @@
             "timestamp":1276041600
           },
           {
-            "mentions":157,
+            "mentions":156,
             "timestamp":1276128000
           },
           {
@@ -5359,7 +5359,7 @@
             "timestamp":1281916800
           },
           {
-            "mentions":194,
+            "mentions":193,
             "timestamp":1282003200
           },
           {
@@ -5483,7 +5483,7 @@
             "timestamp":1284595200
           },
           {
-            "mentions":187,
+            "mentions":186,
             "timestamp":1284681600
           },
           {
@@ -5607,7 +5607,7 @@
             "timestamp":1287273600
           },
           {
-            "mentions":182,
+            "mentions":181,
             "timestamp":1287360000
           },
           {
@@ -6183,7 +6183,7 @@
             "timestamp":1299715200
           },
           {
-            "mentions":335,
+            "mentions":334,
             "timestamp":1299801600
           },
           {
@@ -6195,7 +6195,7 @@
             "timestamp":1299974400
           },
           {
-            "mentions":371,
+            "mentions":370,
             "timestamp":1300060800
           },
           {
@@ -6211,7 +6211,7 @@
             "timestamp":1300320000
           },
           {
-            "mentions":437,
+            "mentions":436,
             "timestamp":1300406400
           },
           {
@@ -6291,7 +6291,7 @@
             "timestamp":1302048000
           },
           {
-            "mentions":549,
+            "mentions":548,
             "timestamp":1302134400
           },
           {
@@ -6551,7 +6551,7 @@
             "timestamp":1307664000
           },
           {
-            "mentions":494,
+            "mentions":493,
             "timestamp":1307750400
           },
           {
@@ -6583,11 +6583,11 @@
             "timestamp":1308355200
           },
           {
-            "mentions":480,
+            "mentions":477,
             "timestamp":1308441600
           },
           {
-            "mentions":625,
+            "mentions":624,
             "timestamp":1308528000
           },
           {
@@ -6619,7 +6619,7 @@
             "timestamp":1309132800
           },
           {
-            "mentions":623,
+            "mentions":621,
             "timestamp":1309219200
           },
           {
@@ -6627,11 +6627,11 @@
             "timestamp":1309305600
           },
           {
-            "mentions":626,
+            "mentions":625,
             "timestamp":1309392000
           },
           {
-            "mentions":550,
+            "mentions":549,
             "timestamp":1309478400
           },
           {
@@ -6687,11 +6687,11 @@
             "timestamp":1310601600
           },
           {
-            "mentions":572,
+            "mentions":571,
             "timestamp":1310688000
           },
           {
-            "mentions":533,
+            "mentions":532,
             "timestamp":1310774400
           },
           {
@@ -6755,7 +6755,7 @@
             "timestamp":1312070400
           },
           {
-            "mentions":592,
+            "mentions":591,
             "timestamp":1312156800
           },
           {
@@ -6915,7 +6915,7 @@
             "timestamp":1315526400
           },
           {
-            "mentions":528,
+            "mentions":526,
             "timestamp":1315612800
           },
           {
@@ -6943,11 +6943,11 @@
             "timestamp":1316131200
           },
           {
-            "mentions":509,
+            "mentions":508,
             "timestamp":1316217600
           },
           {
-            "mentions":531,
+            "mentions":530,
             "timestamp":1316304000
           },
           {
@@ -7027,11 +7027,11 @@
             "timestamp":1317945600
           },
           {
-            "mentions":483,
+            "mentions":480,
             "timestamp":1318032000
           },
           {
-            "mentions":467,
+            "mentions":462,
             "timestamp":1318118400
           },
           {
@@ -7055,7 +7055,7 @@
             "timestamp":1318550400
           },
           {
-            "mentions":649,
+            "mentions":647,
             "timestamp":1318636800
           },
           {
@@ -7083,7 +7083,7 @@
             "timestamp":1319155200
           },
           {
-            "mentions":601,
+            "mentions":600,
             "timestamp":1319241600
           },
           {
@@ -7103,11 +7103,11 @@
             "timestamp":1319587200
           },
           {
-            "mentions":615,
+            "mentions":614,
             "timestamp":1319673600
           },
           {
-            "mentions":623,
+            "mentions":622,
             "timestamp":1319760000
           },
           {
@@ -7343,7 +7343,7 @@
             "timestamp":1324771200
           },
           {
-            "mentions":840,
+            "mentions":838,
             "timestamp":1324857600
           },
           {
@@ -7383,7 +7383,7 @@
             "timestamp":1325635200
           },
           {
-            "mentions":748,
+            "mentions":747,
             "timestamp":1325721600
           },
           {
@@ -7407,7 +7407,7 @@
             "timestamp":1326153600
           },
           {
-            "mentions":725,
+            "mentions":724,
             "timestamp":1326240000
           },
           {
@@ -7451,7 +7451,7 @@
             "timestamp":1327104000
           },
           {
-            "mentions":821,
+            "mentions":820,
             "timestamp":1327190400
           },
           {
@@ -7491,11 +7491,11 @@
             "timestamp":1327968000
           },
           {
-            "mentions":811,
+            "mentions":810,
             "timestamp":1328054400
           },
           {
-            "mentions":915,
+            "mentions":913,
             "timestamp":1328140800
           },
           {
@@ -7531,7 +7531,7 @@
             "timestamp":1328832000
           },
           {
-            "mentions":842,
+            "mentions":841,
             "timestamp":1328918400
           },
           {
@@ -7643,7 +7643,7 @@
             "timestamp":1331251200
           },
           {
-            "mentions":916,
+            "mentions":915,
             "timestamp":1331337600
           },
           {
@@ -7671,7 +7671,7 @@
             "timestamp":1331856000
           },
           {
-            "mentions":1043,
+            "mentions":1042,
             "timestamp":1331942400
           },
           {
@@ -7735,11 +7735,11 @@
             "timestamp":1333238400
           },
           {
-            "mentions":1246,
+            "mentions":1245,
             "timestamp":1333324800
           },
           {
-            "mentions":1229,
+            "mentions":1228,
             "timestamp":1333411200
           },
           {
@@ -7755,7 +7755,7 @@
             "timestamp":1333670400
           },
           {
-            "mentions":1125,
+            "mentions":1124,
             "timestamp":1333756800
           },
           {
@@ -7771,11 +7771,11 @@
             "timestamp":1334016000
           },
           {
-            "mentions":1109,
+            "mentions":1108,
             "timestamp":1334102400
           },
           {
-            "mentions":1141,
+            "mentions":1140,
             "timestamp":1334188800
           },
           {
@@ -7783,7 +7783,7 @@
             "timestamp":1334275200
           },
           {
-            "mentions":1254,
+            "mentions":1253,
             "timestamp":1334361600
           },
           {
@@ -7795,7 +7795,7 @@
             "timestamp":1334534400
           },
           {
-            "mentions":1170,
+            "mentions":1169,
             "timestamp":1334620800
           },
           {
@@ -7831,7 +7831,7 @@
             "timestamp":1335312000
           },
           {
-            "mentions":1225,
+            "mentions":1224,
             "timestamp":1335398400
           },
           {
@@ -7843,7 +7843,7 @@
             "timestamp":1335571200
           },
           {
-            "mentions":1099,
+            "mentions":1098,
             "timestamp":1335657600
           },
           {
@@ -7871,11 +7871,11 @@
             "timestamp":1336176000
           },
           {
-            "mentions":1047,
+            "mentions":1046,
             "timestamp":1336262400
           },
           {
-            "mentions":1159,
+            "mentions":1158,
             "timestamp":1336348800
           },
           {
@@ -7903,7 +7903,7 @@
             "timestamp":1336867200
           },
           {
-            "mentions":1144,
+            "mentions":1141,
             "timestamp":1336953600
           },
           {
@@ -7919,7 +7919,7 @@
             "timestamp":1337212800
           },
           {
-            "mentions":1263,
+            "mentions":1261,
             "timestamp":1337299200
           },
           {
@@ -8051,7 +8051,7 @@
             "timestamp":1340064000
           },
           {
-            "mentions":1412,
+            "mentions":1410,
             "timestamp":1340150400
           },
           {
@@ -8207,7 +8207,7 @@
             "timestamp":1343433600
           },
           {
-            "mentions":1519,
+            "mentions":1518,
             "timestamp":1343520000
           },
           {
@@ -8215,7 +8215,7 @@
             "timestamp":1343606400
           },
           {
-            "mentions":1456,
+            "mentions":1455,
             "timestamp":1343692800
           },
           {
@@ -8327,7 +8327,7 @@
             "timestamp":1346025600
           },
           {
-            "mentions":1425,
+            "mentions":1424,
             "timestamp":1346112000
           },
           {
@@ -8355,7 +8355,7 @@
             "timestamp":1346630400
           },
           {
-            "mentions":1530,
+            "mentions":1529,
             "timestamp":1346716800
           },
           {
@@ -8375,7 +8375,7 @@
             "timestamp":1347062400
           },
           {
-            "mentions":1596,
+            "mentions":1595,
             "timestamp":1347148800
           },
           {
@@ -8395,7 +8395,7 @@
             "timestamp":1347494400
           },
           {
-            "mentions":1784,
+            "mentions":1783,
             "timestamp":1347580800
           },
           {
@@ -8463,7 +8463,7 @@
             "timestamp":1348963200
           },
           {
-            "mentions":1598,
+            "mentions":1597,
             "timestamp":1349049600
           },
           {
@@ -8499,7 +8499,7 @@
             "timestamp":1349740800
           },
           {
-            "mentions":1683,
+            "mentions":1682,
             "timestamp":1349827200
           },
           {
@@ -8507,7 +8507,7 @@
             "timestamp":1349913600
           },
           {
-            "mentions":1846,
+            "mentions":1845,
             "timestamp":1350000000
           },
           {
@@ -8519,7 +8519,7 @@
             "timestamp":1350172800
           },
           {
-            "mentions":1776,
+            "mentions":1774,
             "timestamp":1350259200
           },
           {
@@ -8555,7 +8555,7 @@
             "timestamp":1350950400
           },
           {
-            "mentions":1913,
+            "mentions":1912,
             "timestamp":1351036800
           },
           {
@@ -8671,7 +8671,7 @@
             "timestamp":1353456000
           },
           {
-            "mentions":2254,
+            "mentions":2253,
             "timestamp":1353542400
           },
           {
@@ -8703,23 +8703,23 @@
             "timestamp":1354147200
           },
           {
-            "mentions":2327,
+            "mentions":2325,
             "timestamp":1354233600
           },
           {
-            "mentions":2227,
+            "mentions":2226,
             "timestamp":1354320000
           },
           {
-            "mentions":2024,
+            "mentions":2022,
             "timestamp":1354406400
           },
           {
-            "mentions":2150,
+            "mentions":2147,
             "timestamp":1354492800
           },
           {
-            "mentions":2466,
+            "mentions":2465,
             "timestamp":1354579200
           },
           {
@@ -8727,7 +8727,7 @@
             "timestamp":1354665600
           },
           {
-            "mentions":2340,
+            "mentions":2336,
             "timestamp":1354752000
           },
           {
@@ -8735,19 +8735,19 @@
             "timestamp":1354838400
           },
           {
-            "mentions":2223,
+            "mentions":2221,
             "timestamp":1354924800
           },
           {
-            "mentions":2247,
+            "mentions":2245,
             "timestamp":1355011200
           },
           {
-            "mentions":2368,
+            "mentions":2367,
             "timestamp":1355097600
           },
           {
-            "mentions":2419,
+            "mentions":2416,
             "timestamp":1355184000
           },
           {
@@ -8755,7 +8755,7 @@
             "timestamp":1355270400
           },
           {
-            "mentions":2440,
+            "mentions":2438,
             "timestamp":1355356800
           },
           {
@@ -8771,19 +8771,19 @@
             "timestamp":1355616000
           },
           {
-            "mentions":2576,
+            "mentions":2575,
             "timestamp":1355702400
           },
           {
-            "mentions":2660,
+            "mentions":2659,
             "timestamp":1355788800
           },
           {
-            "mentions":2536,
+            "mentions":2535,
             "timestamp":1355875200
           },
           {
-            "mentions":2594,
+            "mentions":2593,
             "timestamp":1355961600
           },
           {
@@ -8807,11 +8807,11 @@
             "timestamp":1356393600
           },
           {
-            "mentions":2721,
+            "mentions":2720,
             "timestamp":1356480000
           },
           {
-            "mentions":2801,
+            "mentions":2800,
             "timestamp":1356566400
           },
           {
@@ -8831,7 +8831,7 @@
             "timestamp":1356912000
           },
           {
-            "mentions":2078,
+            "mentions":2077,
             "timestamp":1356998400
           },
           {
@@ -8843,7 +8843,7 @@
             "timestamp":1357171200
           },
           {
-            "mentions":2880,
+            "mentions":2879,
             "timestamp":1357257600
           },
           {
@@ -8871,7 +8871,7 @@
             "timestamp":1357776000
           },
           {
-            "mentions":2594,
+            "mentions":2593,
             "timestamp":1357862400
           },
           {
@@ -8879,7 +8879,7 @@
             "timestamp":1357948800
           },
           {
-            "mentions":2408,
+            "mentions":2407,
             "timestamp":1358035200
           },
           {
@@ -8923,7 +8923,7 @@
             "timestamp":1358899200
           },
           {
-            "mentions":2659,
+            "mentions":2658,
             "timestamp":1358985600
           },
           {
@@ -9039,7 +9039,7 @@
             "timestamp":1361404800
           },
           {
-            "mentions":2407,
+            "mentions":2405,
             "timestamp":1361491200
           },
           {
@@ -9063,7 +9063,7 @@
             "timestamp":1361923200
           },
           {
-            "mentions":2307,
+            "mentions":2304,
             "timestamp":1362009600
           },
           {
@@ -9075,7 +9075,7 @@
             "timestamp":1362182400
           },
           {
-            "mentions":2147,
+            "mentions":2146,
             "timestamp":1362268800
           },
           {
@@ -9087,7 +9087,7 @@
             "timestamp":1362441600
           },
           {
-            "mentions":2076,
+            "mentions":2075,
             "timestamp":1362528000
           },
           {
@@ -9103,7 +9103,7 @@
             "timestamp":1362787200
           },
           {
-            "mentions":2288,
+            "mentions":2287,
             "timestamp":1362873600
           },
           {
@@ -9111,7 +9111,7 @@
             "timestamp":1362960000
           },
           {
-            "mentions":1767,
+            "mentions":1766,
             "timestamp":1363046400
           },
           {
@@ -9131,7 +9131,7 @@
             "timestamp":1363392000
           },
           {
-            "mentions":2373,
+            "mentions":2371,
             "timestamp":1363478400
           },
           {
@@ -9139,7 +9139,7 @@
             "timestamp":1363564800
           },
           {
-            "mentions":2166,
+            "mentions":2165,
             "timestamp":1363651200
           },
           {
@@ -9151,11 +9151,11 @@
             "timestamp":1363824000
           },
           {
-            "mentions":2521,
+            "mentions":2520,
             "timestamp":1363910400
           },
           {
-            "mentions":2549,
+            "mentions":2548,
             "timestamp":1363996800
           },
           {
@@ -9167,19 +9167,19 @@
             "timestamp":1364169600
           },
           {
-            "mentions":2759,
+            "mentions":2758,
             "timestamp":1364256000
           },
           {
-            "mentions":2819,
+            "mentions":2818,
             "timestamp":1364342400
           },
           {
-            "mentions":2763,
+            "mentions":2761,
             "timestamp":1364428800
           },
           {
-            "mentions":2605,
+            "mentions":2604,
             "timestamp":1364515200
           },
           {
@@ -9219,11 +9219,11 @@
             "timestamp":1365292800
           },
           {
-            "mentions":2040,
+            "mentions":2038,
             "timestamp":1365379200
           },
           {
-            "mentions":1958,
+            "mentions":1957,
             "timestamp":1365465600
           },
           {
@@ -9239,7 +9239,7 @@
             "timestamp":1365724800
           },
           {
-            "mentions":2208,
+            "mentions":2207,
             "timestamp":1365811200
           },
           {
@@ -9255,7 +9255,7 @@
             "timestamp":1366070400
           },
           {
-            "mentions":2265,
+            "mentions":2264,
             "timestamp":1366156800
           },
           {
@@ -9275,7 +9275,7 @@
             "timestamp":1366502400
           },
           {
-            "mentions":820,
+            "mentions":819,
             "timestamp":1366588800
           },
           {
@@ -9287,11 +9287,11 @@
             "timestamp":1366761600
           },
           {
-            "mentions":2220,
+            "mentions":2218,
             "timestamp":1366848000
           },
           {
-            "mentions":2424,
+            "mentions":2422,
             "timestamp":1366934400
           },
           {
@@ -9303,7 +9303,7 @@
             "timestamp":1367107200
           },
           {
-            "mentions":2248,
+            "mentions":2247,
             "timestamp":1367193600
           },
           {
@@ -9311,7 +9311,7 @@
             "timestamp":1367280000
           },
           {
-            "mentions":2389,
+            "mentions":2388,
             "timestamp":1367366400
           },
           {
@@ -9319,7 +9319,7 @@
             "timestamp":1367452800
           },
           {
-            "mentions":2608,
+            "mentions":2606,
             "timestamp":1367539200
           },
           {
@@ -9327,11 +9327,11 @@
             "timestamp":1367625600
           },
           {
-            "mentions":2765,
+            "mentions":2764,
             "timestamp":1367712000
           },
           {
-            "mentions":2521,
+            "mentions":2520,
             "timestamp":1367798400
           },
           {
@@ -9391,7 +9391,7 @@
             "timestamp":1369008000
           },
           {
-            "mentions":2325,
+            "mentions":2324,
             "timestamp":1369094400
           },
           {
@@ -9399,7 +9399,7 @@
             "timestamp":1369180800
           },
           {
-            "mentions":2279,
+            "mentions":2276,
             "timestamp":1369267200
           },
           {
@@ -9407,35 +9407,35 @@
             "timestamp":1369353600
           },
           {
-            "mentions":2402,
+            "mentions":2401,
             "timestamp":1369440000
           },
           {
-            "mentions":2300,
+            "mentions":2299,
             "timestamp":1369526400
           },
           {
-            "mentions":2714,
+            "mentions":2712,
             "timestamp":1369612800
           },
           {
-            "mentions":2813,
+            "mentions":2811,
             "timestamp":1369699200
           },
           {
-            "mentions":2722,
+            "mentions":2721,
             "timestamp":1369785600
           },
           {
-            "mentions":2754,
+            "mentions":2753,
             "timestamp":1369872000
           },
           {
-            "mentions":2568,
+            "mentions":2567,
             "timestamp":1369958400
           },
           {
-            "mentions":2220,
+            "mentions":2218,
             "timestamp":1370044800
           },
           {
@@ -9443,7 +9443,7 @@
             "timestamp":1370131200
           },
           {
-            "mentions":2588,
+            "mentions":2587,
             "timestamp":1370217600
           },
           {
@@ -9451,7 +9451,7 @@
             "timestamp":1370304000
           },
           {
-            "mentions":2835,
+            "mentions":2834,
             "timestamp":1370390400
           },
           {
@@ -9459,15 +9459,15 @@
             "timestamp":1370476800
           },
           {
-            "mentions":2658,
+            "mentions":2657,
             "timestamp":1370563200
           },
           {
-            "mentions":2438,
+            "mentions":2437,
             "timestamp":1370649600
           },
           {
-            "mentions":2067,
+            "mentions":2065,
             "timestamp":1370736000
           },
           {
@@ -9483,11 +9483,11 @@
             "timestamp":1370995200
           },
           {
-            "mentions":2131,
+            "mentions":2130,
             "timestamp":1371081600
           },
           {
-            "mentions":2146,
+            "mentions":2145,
             "timestamp":1371168000
           },
           {
@@ -9499,7 +9499,7 @@
             "timestamp":1371340800
           },
           {
-            "mentions":2245,
+            "mentions":2244,
             "timestamp":1371427200
           },
           {
@@ -9507,7 +9507,7 @@
             "timestamp":1371513600
           },
           {
-            "mentions":2247,
+            "mentions":2245,
             "timestamp":1371600000
           },
           {
@@ -9515,7 +9515,7 @@
             "timestamp":1371686400
           },
           {
-            "mentions":2499,
+            "mentions":2498,
             "timestamp":1371772800
           },
           {
@@ -9527,7 +9527,7 @@
             "timestamp":1371945600
           },
           {
-            "mentions":2578,
+            "mentions":2577,
             "timestamp":1372032000
           },
           {
@@ -9539,11 +9539,11 @@
             "timestamp":1372204800
           },
           {
-            "mentions":2376,
+            "mentions":2372,
             "timestamp":1372291200
           },
           {
-            "mentions":2676,
+            "mentions":2675,
             "timestamp":1372377600
           },
           {
@@ -9559,11 +9559,11 @@
             "timestamp":1372636800
           },
           {
-            "mentions":2224,
+            "mentions":2223,
             "timestamp":1372723200
           },
           {
-            "mentions":1857,
+            "mentions":1855,
             "timestamp":1372809600
           },
           {
@@ -9571,7 +9571,7 @@
             "timestamp":1372896000
           },
           {
-            "mentions":2421,
+            "mentions":2420,
             "timestamp":1372982400
           },
           {
@@ -9579,7 +9579,7 @@
             "timestamp":1373068800
           },
           {
-            "mentions":2272,
+            "mentions":2271,
             "timestamp":1373155200
           },
           {
@@ -9587,27 +9587,27 @@
             "timestamp":1373241600
           },
           {
-            "mentions":2182,
+            "mentions":2181,
             "timestamp":1373328000
           },
           {
-            "mentions":2144,
+            "mentions":2143,
             "timestamp":1373414400
           },
           {
-            "mentions":2405,
+            "mentions":2403,
             "timestamp":1373500800
           },
           {
-            "mentions":2703,
+            "mentions":2700,
             "timestamp":1373587200
           },
           {
-            "mentions":2711,
+            "mentions":2708,
             "timestamp":1373673600
           },
           {
-            "mentions":2270,
+            "mentions":2269,
             "timestamp":1373760000
           },
           {
@@ -9623,51 +9623,51 @@
             "timestamp":1374019200
           },
           {
-            "mentions":2355,
+            "mentions":2353,
             "timestamp":1374105600
           },
           {
-            "mentions":2388,
+            "mentions":2604,
             "timestamp":1374192000
           },
           {
-            "mentions":2295,
+            "mentions":2558,
             "timestamp":1374278400
           },
           {
-            "mentions":2192,
+            "mentions":2414,
             "timestamp":1374364800
           },
           {
-            "mentions":1939,
+            "mentions":2177,
             "timestamp":1374451200
           },
           {
-            "mentions":1727,
+            "mentions":1892,
             "timestamp":1374537600
           },
           {
-            "mentions":2095,
+            "mentions":2294,
             "timestamp":1374624000
           },
           {
-            "mentions":2187,
+            "mentions":2381,
             "timestamp":1374710400
           },
           {
-            "mentions":2294,
+            "mentions":2526,
             "timestamp":1374796800
           },
           {
-            "mentions":2337,
+            "mentions":2545,
             "timestamp":1374883200
           },
           {
-            "mentions":2050,
+            "mentions":2263,
             "timestamp":1374969600
           },
           {
-            "mentions":2071,
+            "mentions":2267,
             "timestamp":1375056000
           },
           {
@@ -9675,15 +9675,15 @@
             "timestamp":1375142400
           },
           {
-            "mentions":1886,
+            "mentions":1885,
             "timestamp":1375228800
           },
           {
-            "mentions":1984,
+            "mentions":1983,
             "timestamp":1375315200
           },
           {
-            "mentions":2155,
+            "mentions":2154,
             "timestamp":1375401600
           },
           {
@@ -9691,7 +9691,7 @@
             "timestamp":1375488000
           },
           {
-            "mentions":2442,
+            "mentions":2441,
             "timestamp":1375574400
           },
           {
@@ -9711,7 +9711,7 @@
             "timestamp":1375920000
           },
           {
-            "mentions":1743,
+            "mentions":1742,
             "timestamp":1376006400
           },
           {
@@ -9719,7 +9719,7 @@
             "timestamp":1376092800
           },
           {
-            "mentions":2047,
+            "mentions":2046,
             "timestamp":1376179200
           },
           {
@@ -9727,7 +9727,7 @@
             "timestamp":1376265600
           },
           {
-            "mentions":2205,
+            "mentions":2204,
             "timestamp":1376352000
           },
           {
@@ -9735,19 +9735,19 @@
             "timestamp":1376438400
           },
           {
-            "mentions":2542,
+            "mentions":2541,
             "timestamp":1376524800
           },
           {
-            "mentions":2328,
+            "mentions":2327,
             "timestamp":1376611200
           },
           {
-            "mentions":2102,
+            "mentions":2101,
             "timestamp":1376697600
           },
           {
-            "mentions":1809,
+            "mentions":1808,
             "timestamp":1376784000
           },
           {
@@ -9755,7 +9755,7 @@
             "timestamp":1376870400
           },
           {
-            "mentions":1951,
+            "mentions":1949,
             "timestamp":1376956800
           },
           {
@@ -9763,15 +9763,15 @@
             "timestamp":1377043200
           },
           {
-            "mentions":1959,
+            "mentions":1957,
             "timestamp":1377129600
           },
           {
-            "mentions":1933,
+            "mentions":1931,
             "timestamp":1377216000
           },
           {
-            "mentions":1958,
+            "mentions":1957,
             "timestamp":1377302400
           },
           {
@@ -9791,7 +9791,7 @@
             "timestamp":1377648000
           },
           {
-            "mentions":1950,
+            "mentions":1949,
             "timestamp":1377734400
           },
           {
@@ -9811,7 +9811,7 @@
             "timestamp":1378080000
           },
           {
-            "mentions":1852,
+            "mentions":1850,
             "timestamp":1378166400
           },
           {
@@ -9819,7 +9819,7 @@
             "timestamp":1378252800
           },
           {
-            "mentions":1868,
+            "mentions":1867,
             "timestamp":1378339200
           },
           {
@@ -9851,7 +9851,7 @@
             "timestamp":1378944000
           },
           {
-            "mentions":2228,
+            "mentions":2227,
             "timestamp":1379030400
           },
           {
@@ -9863,7 +9863,7 @@
             "timestamp":1379203200
           },
           {
-            "mentions":2077,
+            "mentions":2074,
             "timestamp":1379289600
           },
           {
@@ -9871,7 +9871,7 @@
             "timestamp":1379376000
           },
           {
-            "mentions":2019,
+            "mentions":2018,
             "timestamp":1379462400
           },
           {
@@ -9883,7 +9883,7 @@
             "timestamp":1379635200
           },
           {
-            "mentions":2800,
+            "mentions":2799,
             "timestamp":1379721600
           },
           {
@@ -9899,7 +9899,7 @@
             "timestamp":1379980800
           },
           {
-            "mentions":1731,
+            "mentions":1730,
             "timestamp":1380067200
           },
           {
@@ -9915,7 +9915,7 @@
             "timestamp":1380326400
           },
           {
-            "mentions":2131,
+            "mentions":2130,
             "timestamp":1380412800
           },
           {
@@ -9939,7 +9939,7 @@
             "timestamp":1380844800
           },
           {
-            "mentions":2259,
+            "mentions":2257,
             "timestamp":1380931200
           },
           {
@@ -9955,11 +9955,11 @@
             "timestamp":1381190400
           },
           {
-            "mentions":2458,
+            "mentions":2457,
             "timestamp":1381276800
           },
           {
-            "mentions":2061,
+            "mentions":2060,
             "timestamp":1381363200
           },
           {
@@ -9967,11 +9967,11 @@
             "timestamp":1381449600
           },
           {
-            "mentions":2386,
+            "mentions":2384,
             "timestamp":1381536000
           },
           {
-            "mentions":2508,
+            "mentions":2505,
             "timestamp":1381622400
           },
           {
@@ -9979,11 +9979,11 @@
             "timestamp":1381708800
           },
           {
-            "mentions":2604,
+            "mentions":2603,
             "timestamp":1381795200
           },
           {
-            "mentions":2354,
+            "mentions":2353,
             "timestamp":1381881600
           },
           {
@@ -9995,7 +9995,7 @@
             "timestamp":1382054400
           },
           {
-            "mentions":2373,
+            "mentions":2372,
             "timestamp":1382140800
           },
           {
@@ -10003,7 +10003,7 @@
             "timestamp":1382227200
           },
           {
-            "mentions":2592,
+            "mentions":2591,
             "timestamp":1382313600
           },
           {
@@ -10023,7 +10023,7 @@
             "timestamp":1382659200
           },
           {
-            "mentions":2187,
+            "mentions":2186,
             "timestamp":1382745600
           },
           {
@@ -10075,7 +10075,7 @@
             "timestamp":1383782400
           },
           {
-            "mentions":1958,
+            "mentions":1956,
             "timestamp":1383868800
           },
           {
@@ -10107,7 +10107,7 @@
             "timestamp":1384473600
           },
           {
-            "mentions":2279,
+            "mentions":2275,
             "timestamp":1384560000
           },
           {
@@ -10115,11 +10115,11 @@
             "timestamp":1384646400
           },
           {
-            "mentions":2086,
+            "mentions":2083,
             "timestamp":1384732800
           },
           {
-            "mentions":1908,
+            "mentions":1906,
             "timestamp":1384819200
           },
           {
@@ -10131,15 +10131,15 @@
             "timestamp":1384992000
           },
           {
-            "mentions":1963,
+            "mentions":1959,
             "timestamp":1385078400
           },
           {
-            "mentions":1911,
+            "mentions":1908,
             "timestamp":1385164800
           },
           {
-            "mentions":1803,
+            "mentions":1801,
             "timestamp":1385251200
           },
           {
@@ -10147,7 +10147,7 @@
             "timestamp":1385337600
           },
           {
-            "mentions":2638,
+            "mentions":2634,
             "timestamp":1385424000
           },
           {
@@ -10155,71 +10155,71 @@
             "timestamp":1385510400
           },
           {
-            "mentions":2279,
+            "mentions":2278,
             "timestamp":1385596800
           },
           {
-            "mentions":2103,
+            "mentions":2102,
             "timestamp":1385683200
           },
           {
-            "mentions":1739,
+            "mentions":1738,
             "timestamp":1385769600
           },
           {
-            "mentions":1632,
+            "mentions":1492,
             "timestamp":1385856000
           },
           {
-            "mentions":1775,
+            "mentions":1602,
             "timestamp":1385942400
           },
           {
-            "mentions":1779,
+            "mentions":1615,
             "timestamp":1386028800
           },
           {
-            "mentions":1753,
+            "mentions":1596,
             "timestamp":1386115200
           },
           {
-            "mentions":1751,
+            "mentions":1594,
             "timestamp":1386201600
           },
           {
-            "mentions":1767,
+            "mentions":1619,
             "timestamp":1386288000
           },
           {
-            "mentions":1642,
+            "mentions":1516,
             "timestamp":1386374400
           },
           {
-            "mentions":1660,
+            "mentions":1505,
             "timestamp":1386460800
           },
           {
-            "mentions":1731,
+            "mentions":1599,
             "timestamp":1386547200
           },
           {
-            "mentions":1718,
+            "mentions":1557,
             "timestamp":1386633600
           },
           {
-            "mentions":1847,
+            "mentions":1678,
             "timestamp":1386720000
           },
           {
-            "mentions":1750,
+            "mentions":1729,
             "timestamp":1386806400
           },
           {
-            "mentions":1771,
+            "mentions":1770,
             "timestamp":1386892800
           },
           {
-            "mentions":1630,
+            "mentions":1629,
             "timestamp":1386979200
           },
           {
@@ -10231,7 +10231,7 @@
             "timestamp":1387152000
           },
           {
-            "mentions":2249,
+            "mentions":2243,
             "timestamp":1387238400
           },
           {
@@ -10243,11 +10243,11 @@
             "timestamp":1387411200
           },
           {
-            "mentions":1910,
+            "mentions":1904,
             "timestamp":1387497600
           },
           {
-            "mentions":1672,
+            "mentions":1671,
             "timestamp":1387584000
           },
           {
@@ -10271,7 +10271,7 @@
             "timestamp":1388016000
           },
           {
-            "mentions":1771,
+            "mentions":1770,
             "timestamp":1388102400
           },
           {
@@ -10283,15 +10283,15 @@
             "timestamp":1388275200
           },
           {
-            "mentions":1710,
+            "mentions":1709,
             "timestamp":1388361600
           },
           {
-            "mentions":1797,
+            "mentions":1796,
             "timestamp":1388448000
           },
           {
-            "mentions":1396,
+            "mentions":1395,
             "timestamp":1388534400
           },
           {
@@ -10307,11 +10307,11 @@
             "timestamp":1388793600
           },
           {
-            "mentions":1638,
+            "mentions":1637,
             "timestamp":1388880000
           },
           {
-            "mentions":1512,
+            "mentions":1511,
             "timestamp":1388966400
           },
           {
@@ -10323,7 +10323,7 @@
             "timestamp":1389139200
           },
           {
-            "mentions":1685,
+            "mentions":1684,
             "timestamp":1389225600
           },
           {
@@ -10331,7 +10331,7 @@
             "timestamp":1389312000
           },
           {
-            "mentions":1542,
+            "mentions":1541,
             "timestamp":1389398400
           },
           {
@@ -10339,7 +10339,7 @@
             "timestamp":1389484800
           },
           {
-            "mentions":1339,
+            "mentions":1338,
             "timestamp":1389571200
           },
           {
@@ -10351,7 +10351,7 @@
             "timestamp":1389744000
           },
           {
-            "mentions":1348,
+            "mentions":1347,
             "timestamp":1389830400
           },
           {
@@ -10403,11 +10403,11 @@
             "timestamp":1390867200
           },
           {
-            "mentions":1330,
+            "mentions":1329,
             "timestamp":1390953600
           },
           {
-            "mentions":1378,
+            "mentions":1377,
             "timestamp":1391040000
           },
           {
@@ -10447,7 +10447,7 @@
             "timestamp":1391817600
           },
           {
-            "mentions":1386,
+            "mentions":1385,
             "timestamp":1391904000
           },
           {
@@ -10459,7 +10459,7 @@
             "timestamp":1392076800
           },
           {
-            "mentions":1405,
+            "mentions":1404,
             "timestamp":1392163200
           },
           {
@@ -10475,11 +10475,11 @@
             "timestamp":1392422400
           },
           {
-            "mentions":1269,
+            "mentions":1268,
             "timestamp":1392508800
           },
           {
-            "mentions":1130,
+            "mentions":1129,
             "timestamp":1392595200
           },
           {
@@ -10499,7 +10499,7 @@
             "timestamp":1392940800
           },
           {
-            "mentions":1566,
+            "mentions":1565,
             "timestamp":1393027200
           },
           {
@@ -10507,7 +10507,7 @@
             "timestamp":1393113600
           },
           {
-            "mentions":1281,
+            "mentions":1278,
             "timestamp":1393200000
           },
           {
@@ -10515,7 +10515,7 @@
             "timestamp":1393286400
           },
           {
-            "mentions":1109,
+            "mentions":1108,
             "timestamp":1393372800
           },
           {
@@ -10523,7 +10523,7 @@
             "timestamp":1393459200
           },
           {
-            "mentions":1392,
+            "mentions":1391,
             "timestamp":1393545600
           },
           {
@@ -10531,7 +10531,7 @@
             "timestamp":1393632000
           },
           {
-            "mentions":1287,
+            "mentions":1286,
             "timestamp":1393718400
           },
           {
@@ -10575,7 +10575,7 @@
             "timestamp":1394582400
           },
           {
-            "mentions":1099,
+            "mentions":1097,
             "timestamp":1394668800
           },
           {
@@ -10591,11 +10591,11 @@
             "timestamp":1394928000
           },
           {
-            "mentions":1265,
+            "mentions":1264,
             "timestamp":1395014400
           },
           {
-            "mentions":1411,
+            "mentions":1408,
             "timestamp":1395100800
           },
           {
@@ -10607,7 +10607,7 @@
             "timestamp":1395273600
           },
           {
-            "mentions":1332,
+            "mentions":1331,
             "timestamp":1395360000
           },
           {
@@ -10655,7 +10655,7 @@
             "timestamp":1396310400
           },
           {
-            "mentions":1072,
+            "mentions":1071,
             "timestamp":1396396800
           },
           {
@@ -10679,15 +10679,15 @@
             "timestamp":1396828800
           },
           {
-            "mentions":991,
+            "mentions":990,
             "timestamp":1396915200
           },
           {
-            "mentions":1152,
+            "mentions":1151,
             "timestamp":1397001600
           },
           {
-            "mentions":1137,
+            "mentions":1136,
             "timestamp":1397088000
           },
           {
@@ -10703,11 +10703,11 @@
             "timestamp":1397347200
           },
           {
-            "mentions":999,
+            "mentions":998,
             "timestamp":1397433600
           },
           {
-            "mentions":969,
+            "mentions":966,
             "timestamp":1397520000
           },
           {
@@ -10715,11 +10715,11 @@
             "timestamp":1397606400
           },
           {
-            "mentions":1039,
+            "mentions":1038,
             "timestamp":1397692800
           },
           {
-            "mentions":1234,
+            "mentions":1233,
             "timestamp":1397779200
           },
           {
@@ -10735,19 +10735,19 @@
             "timestamp":1398038400
           },
           {
-            "mentions":945,
+            "mentions":944,
             "timestamp":1398124800
           },
           {
-            "mentions":965,
+            "mentions":964,
             "timestamp":1398211200
           },
           {
-            "mentions":1046,
+            "mentions":1043,
             "timestamp":1398297600
           },
           {
-            "mentions":1009,
+            "mentions":1008,
             "timestamp":1398384000
           },
           {
@@ -10811,7 +10811,7 @@
             "timestamp":1399680000
           },
           {
-            "mentions":1150,
+            "mentions":1149,
             "timestamp":1399766400
           },
           {
@@ -10843,7 +10843,7 @@
             "timestamp":1400371200
           },
           {
-            "mentions":938,
+            "mentions":937,
             "timestamp":1400457600
           },
           {
@@ -10851,7 +10851,7 @@
             "timestamp":1400544000
           },
           {
-            "mentions":927,
+            "mentions":926,
             "timestamp":1400630400
           },
           {
@@ -10891,15 +10891,15 @@
             "timestamp":1401408000
           },
           {
-            "mentions":896,
+            "mentions":895,
             "timestamp":1401494400
           },
           {
-            "mentions":957,
+            "mentions":956,
             "timestamp":1401580800
           },
           {
-            "mentions":1053,
+            "mentions":1052,
             "timestamp":1401667200
           },
           {
@@ -10943,7 +10943,7 @@
             "timestamp":1402531200
           },
           {
-            "mentions":915,
+            "mentions":914,
             "timestamp":1402617600
           },
           {
@@ -10959,7 +10959,7 @@
             "timestamp":1402876800
           },
           {
-            "mentions":652,
+            "mentions":651,
             "timestamp":1402963200
           },
           {
@@ -11015,7 +11015,7 @@
             "timestamp":1404086400
           },
           {
-            "mentions":808,
+            "mentions":807,
             "timestamp":1404172800
           },
           {
@@ -11027,7 +11027,7 @@
             "timestamp":1404345600
           },
           {
-            "mentions":1098,
+            "mentions":1097,
             "timestamp":1404432000
           },
           {
@@ -11047,7 +11047,7 @@
             "timestamp":1404777600
           },
           {
-            "mentions":644,
+            "mentions":643,
             "timestamp":1404864000
           },
           {
@@ -11067,7 +11067,7 @@
             "timestamp":1405209600
           },
           {
-            "mentions":847,
+            "mentions":846,
             "timestamp":1405296000
           },
           {
@@ -11075,7 +11075,7 @@
             "timestamp":1405382400
           },
           {
-            "mentions":762,
+            "mentions":761,
             "timestamp":1405468800
           },
           {
@@ -11087,7 +11087,7 @@
             "timestamp":1405641600
           },
           {
-            "mentions":804,
+            "mentions":803,
             "timestamp":1405728000
           },
           {
@@ -11103,7 +11103,7 @@
             "timestamp":1405987200
           },
           {
-            "mentions":734,
+            "mentions":733,
             "timestamp":1406073600
           },
           {
@@ -11131,7 +11131,7 @@
             "timestamp":1406592000
           },
           {
-            "mentions":627,
+            "mentions":626,
             "timestamp":1406678400
           },
           {
@@ -11207,7 +11207,7 @@
             "timestamp":1408233600
           },
           {
-            "mentions":570,
+            "mentions":569,
             "timestamp":1408320000
           },
           {
@@ -11243,7 +11243,7 @@
             "timestamp":1409011200
           },
           {
-            "mentions":588,
+            "mentions":587,
             "timestamp":1409097600
           },
           {
@@ -11255,47 +11255,47 @@
             "timestamp":1409270400
           },
           {
-            "mentions":749,
+            "mentions":748,
             "timestamp":1409356800
           },
           {
-            "mentions":673,
+            "mentions":672,
             "timestamp":1409443200
           },
           {
-            "mentions":739,
+            "mentions":738,
             "timestamp":1409529600
           },
           {
-            "mentions":2223,
+            "mentions":2222,
             "timestamp":1409616000
           },
           {
-            "mentions":969,
+            "mentions":965,
             "timestamp":1409702400
           },
           {
-            "mentions":657,
+            "mentions":653,
             "timestamp":1409788800
           },
           {
-            "mentions":754,
+            "mentions":752,
             "timestamp":1409875200
           },
           {
-            "mentions":609,
+            "mentions":608,
             "timestamp":1409961600
           },
           {
-            "mentions":565,
+            "mentions":564,
             "timestamp":1410048000
           },
           {
-            "mentions":524,
+            "mentions":523,
             "timestamp":1410134400
           },
           {
-            "mentions":629,
+            "mentions":628,
             "timestamp":1410220800
           },
           {
@@ -11307,7 +11307,7 @@
             "timestamp":1410393600
           },
           {
-            "mentions":864,
+            "mentions":860,
             "timestamp":1410480000
           },
           {
@@ -11315,15 +11315,15 @@
             "timestamp":1410566400
           },
           {
-            "mentions":645,
+            "mentions":644,
             "timestamp":1410652800
           },
           {
-            "mentions":721,
+            "mentions":720,
             "timestamp":1410739200
           },
           {
-            "mentions":647,
+            "mentions":646,
             "timestamp":1410825600
           },
           {
@@ -11331,7 +11331,7 @@
             "timestamp":1410912000
           },
           {
-            "mentions":715,
+            "mentions":713,
             "timestamp":1410998400
           },
           {
@@ -11355,7 +11355,7 @@
             "timestamp":1411430400
           },
           {
-            "mentions":544,
+            "mentions":543,
             "timestamp":1411516800
           },
           {
@@ -11363,7 +11363,7 @@
             "timestamp":1411603200
           },
           {
-            "mentions":586,
+            "mentions":585,
             "timestamp":1411689600
           },
           {
@@ -11375,7 +11375,7 @@
             "timestamp":1411862400
           },
           {
-            "mentions":602,
+            "mentions":600,
             "timestamp":1411948800
           },
           {
@@ -11399,7 +11399,7 @@
             "timestamp":1412380800
           },
           {
-            "mentions":742,
+            "mentions":740,
             "timestamp":1412467200
           },
           {
@@ -11407,11 +11407,11 @@
             "timestamp":1412553600
           },
           {
-            "mentions":474,
+            "mentions":473,
             "timestamp":1412640000
           },
           {
-            "mentions":415,
+            "mentions":414,
             "timestamp":1412726400
           },
           {
@@ -11511,7 +11511,7 @@
             "timestamp":1414800000
           },
           {
-            "mentions":520,
+            "mentions":519,
             "timestamp":1414886400
           },
           {
@@ -11519,7 +11519,7 @@
             "timestamp":1414972800
           },
           {
-            "mentions":619,
+            "mentions":618,
             "timestamp":1415059200
           },
           {
@@ -11531,7 +11531,7 @@
             "timestamp":1415232000
           },
           {
-            "mentions":685,
+            "mentions":684,
             "timestamp":1415318400
           },
           {
@@ -11543,11 +11543,11 @@
             "timestamp":1415491200
           },
           {
-            "mentions":641,
+            "mentions":640,
             "timestamp":1415577600
           },
           {
-            "mentions":600,
+            "mentions":599,
             "timestamp":1415664000
           },
           {
@@ -11563,19 +11563,19 @@
             "timestamp":1415923200
           },
           {
-            "mentions":680,
+            "mentions":679,
             "timestamp":1416009600
           },
           {
-            "mentions":552,
+            "mentions":551,
             "timestamp":1416096000
           },
           {
-            "mentions":593,
+            "mentions":602,
             "timestamp":1416182400
           },
           {
-            "mentions":438,
+            "mentions":458,
             "timestamp":1416268800
           },
           {
@@ -11659,7 +11659,7 @@
             "timestamp":1417996800
           },
           {
-            "mentions":477,
+            "mentions":476,
             "timestamp":1418083200
           },
           {
@@ -11675,7 +11675,7 @@
             "timestamp":1418342400
           },
           {
-            "mentions":427,
+            "mentions":426,
             "timestamp":1418428800
           },
           {
@@ -11683,11 +11683,11 @@
             "timestamp":1418515200
           },
           {
-            "mentions":475,
+            "mentions":473,
             "timestamp":1418601600
           },
           {
-            "mentions":453,
+            "mentions":452,
             "timestamp":1418688000
           },
           {
@@ -11707,7 +11707,7 @@
             "mentions":53.0
           },
           "average":{
-            "mentions":646.6387074596081
+            "mentions":646.7335854245446
           },
           "peakiness":{
             "mentions":0
@@ -11716,13 +11716,13 @@
             "mentions":1381968000
           },
           "stddev":{
-            "mentions":803.431455426513
+            "mentions":804.1463356633418
           },
           "total":{
-            "mentions":1881072
+            "mentions":1881348
           },
           "momentum":{
-            "mentions":2878040
+            "mentions":2878462
           }
         },
         "display_query":"npe OR #npe",
@@ -16754,7 +16754,7 @@
             "timestamp":1276041600
           },
           {
-            "mentions":157,
+            "mentions":156,
             "timestamp":1276128000
           },
           {
@@ -17026,7 +17026,7 @@
             "timestamp":1281916800
           },
           {
-            "mentions":194,
+            "mentions":193,
             "timestamp":1282003200
           },
           {
@@ -17150,7 +17150,7 @@
             "timestamp":1284595200
           },
           {
-            "mentions":187,
+            "mentions":186,
             "timestamp":1284681600
           },
           {
@@ -17274,7 +17274,7 @@
             "timestamp":1287273600
           },
           {
-            "mentions":182,
+            "mentions":181,
             "timestamp":1287360000
           },
           {
@@ -17850,7 +17850,7 @@
             "timestamp":1299715200
           },
           {
-            "mentions":335,
+            "mentions":334,
             "timestamp":1299801600
           },
           {
@@ -17862,7 +17862,7 @@
             "timestamp":1299974400
           },
           {
-            "mentions":371,
+            "mentions":370,
             "timestamp":1300060800
           },
           {
@@ -17878,7 +17878,7 @@
             "timestamp":1300320000
           },
           {
-            "mentions":437,
+            "mentions":436,
             "timestamp":1300406400
           },
           {
@@ -17958,7 +17958,7 @@
             "timestamp":1302048000
           },
           {
-            "mentions":549,
+            "mentions":548,
             "timestamp":1302134400
           },
           {
@@ -18218,7 +18218,7 @@
             "timestamp":1307664000
           },
           {
-            "mentions":494,
+            "mentions":493,
             "timestamp":1307750400
           },
           {
@@ -18250,11 +18250,11 @@
             "timestamp":1308355200
           },
           {
-            "mentions":480,
+            "mentions":477,
             "timestamp":1308441600
           },
           {
-            "mentions":625,
+            "mentions":624,
             "timestamp":1308528000
           },
           {
@@ -18286,7 +18286,7 @@
             "timestamp":1309132800
           },
           {
-            "mentions":623,
+            "mentions":621,
             "timestamp":1309219200
           },
           {
@@ -18294,11 +18294,11 @@
             "timestamp":1309305600
           },
           {
-            "mentions":626,
+            "mentions":625,
             "timestamp":1309392000
           },
           {
-            "mentions":550,
+            "mentions":549,
             "timestamp":1309478400
           },
           {
@@ -18354,11 +18354,11 @@
             "timestamp":1310601600
           },
           {
-            "mentions":572,
+            "mentions":571,
             "timestamp":1310688000
           },
           {
-            "mentions":533,
+            "mentions":532,
             "timestamp":1310774400
           },
           {
@@ -18422,7 +18422,7 @@
             "timestamp":1312070400
           },
           {
-            "mentions":592,
+            "mentions":591,
             "timestamp":1312156800
           },
           {
@@ -18582,7 +18582,7 @@
             "timestamp":1315526400
           },
           {
-            "mentions":528,
+            "mentions":526,
             "timestamp":1315612800
           },
           {
@@ -18610,11 +18610,11 @@
             "timestamp":1316131200
           },
           {
-            "mentions":509,
+            "mentions":508,
             "timestamp":1316217600
           },
           {
-            "mentions":531,
+            "mentions":530,
             "timestamp":1316304000
           },
           {
@@ -18694,11 +18694,11 @@
             "timestamp":1317945600
           },
           {
-            "mentions":483,
+            "mentions":480,
             "timestamp":1318032000
           },
           {
-            "mentions":467,
+            "mentions":462,
             "timestamp":1318118400
           },
           {
@@ -18722,7 +18722,7 @@
             "timestamp":1318550400
           },
           {
-            "mentions":649,
+            "mentions":647,
             "timestamp":1318636800
           },
           {
@@ -18750,7 +18750,7 @@
             "timestamp":1319155200
           },
           {
-            "mentions":601,
+            "mentions":600,
             "timestamp":1319241600
           },
           {
@@ -18770,11 +18770,11 @@
             "timestamp":1319587200
           },
           {
-            "mentions":615,
+            "mentions":614,
             "timestamp":1319673600
           },
           {
-            "mentions":623,
+            "mentions":622,
             "timestamp":1319760000
           },
           {
@@ -19010,7 +19010,7 @@
             "timestamp":1324771200
           },
           {
-            "mentions":840,
+            "mentions":838,
             "timestamp":1324857600
           },
           {
@@ -19050,7 +19050,7 @@
             "timestamp":1325635200
           },
           {
-            "mentions":748,
+            "mentions":747,
             "timestamp":1325721600
           },
           {
@@ -19074,7 +19074,7 @@
             "timestamp":1326153600
           },
           {
-            "mentions":725,
+            "mentions":724,
             "timestamp":1326240000
           },
           {
@@ -19118,7 +19118,7 @@
             "timestamp":1327104000
           },
           {
-            "mentions":821,
+            "mentions":820,
             "timestamp":1327190400
           },
           {
@@ -19158,11 +19158,11 @@
             "timestamp":1327968000
           },
           {
-            "mentions":811,
+            "mentions":810,
             "timestamp":1328054400
           },
           {
-            "mentions":915,
+            "mentions":913,
             "timestamp":1328140800
           },
           {
@@ -19198,7 +19198,7 @@
             "timestamp":1328832000
           },
           {
-            "mentions":842,
+            "mentions":841,
             "timestamp":1328918400
           },
           {
@@ -19310,7 +19310,7 @@
             "timestamp":1331251200
           },
           {
-            "mentions":916,
+            "mentions":915,
             "timestamp":1331337600
           },
           {
@@ -19338,7 +19338,7 @@
             "timestamp":1331856000
           },
           {
-            "mentions":1043,
+            "mentions":1042,
             "timestamp":1331942400
           },
           {
@@ -19402,11 +19402,11 @@
             "timestamp":1333238400
           },
           {
-            "mentions":1246,
+            "mentions":1245,
             "timestamp":1333324800
           },
           {
-            "mentions":1229,
+            "mentions":1228,
             "timestamp":1333411200
           },
           {
@@ -19422,7 +19422,7 @@
             "timestamp":1333670400
           },
           {
-            "mentions":1125,
+            "mentions":1124,
             "timestamp":1333756800
           },
           {
@@ -19438,11 +19438,11 @@
             "timestamp":1334016000
           },
           {
-            "mentions":1109,
+            "mentions":1108,
             "timestamp":1334102400
           },
           {
-            "mentions":1141,
+            "mentions":1140,
             "timestamp":1334188800
           },
           {
@@ -19450,7 +19450,7 @@
             "timestamp":1334275200
           },
           {
-            "mentions":1254,
+            "mentions":1253,
             "timestamp":1334361600
           },
           {
@@ -19462,7 +19462,7 @@
             "timestamp":1334534400
           },
           {
-            "mentions":1170,
+            "mentions":1169,
             "timestamp":1334620800
           },
           {
@@ -19498,7 +19498,7 @@
             "timestamp":1335312000
           },
           {
-            "mentions":1225,
+            "mentions":1224,
             "timestamp":1335398400
           },
           {
@@ -19510,7 +19510,7 @@
             "timestamp":1335571200
           },
           {
-            "mentions":1099,
+            "mentions":1098,
             "timestamp":1335657600
           },
           {
@@ -19538,11 +19538,11 @@
             "timestamp":1336176000
           },
           {
-            "mentions":1047,
+            "mentions":1046,
             "timestamp":1336262400
           },
           {
-            "mentions":1159,
+            "mentions":1158,
             "timestamp":1336348800
           },
           {
@@ -19570,7 +19570,7 @@
             "timestamp":1336867200
           },
           {
-            "mentions":1144,
+            "mentions":1141,
             "timestamp":1336953600
           },
           {
@@ -19586,7 +19586,7 @@
             "timestamp":1337212800
           },
           {
-            "mentions":1263,
+            "mentions":1261,
             "timestamp":1337299200
           },
           {
@@ -19718,7 +19718,7 @@
             "timestamp":1340064000
           },
           {
-            "mentions":1412,
+            "mentions":1410,
             "timestamp":1340150400
           },
           {
@@ -19874,7 +19874,7 @@
             "timestamp":1343433600
           },
           {
-            "mentions":1519,
+            "mentions":1518,
             "timestamp":1343520000
           },
           {
@@ -19882,7 +19882,7 @@
             "timestamp":1343606400
           },
           {
-            "mentions":1456,
+            "mentions":1455,
             "timestamp":1343692800
           },
           {
@@ -19994,7 +19994,7 @@
             "timestamp":1346025600
           },
           {
-            "mentions":1425,
+            "mentions":1424,
             "timestamp":1346112000
           },
           {
@@ -20022,7 +20022,7 @@
             "timestamp":1346630400
           },
           {
-            "mentions":1530,
+            "mentions":1529,
             "timestamp":1346716800
           },
           {
@@ -20042,7 +20042,7 @@
             "timestamp":1347062400
           },
           {
-            "mentions":1596,
+            "mentions":1595,
             "timestamp":1347148800
           },
           {
@@ -20062,7 +20062,7 @@
             "timestamp":1347494400
           },
           {
-            "mentions":1784,
+            "mentions":1783,
             "timestamp":1347580800
           },
           {
@@ -20130,7 +20130,7 @@
             "timestamp":1348963200
           },
           {
-            "mentions":1598,
+            "mentions":1597,
             "timestamp":1349049600
           },
           {
@@ -20166,7 +20166,7 @@
             "timestamp":1349740800
           },
           {
-            "mentions":1683,
+            "mentions":1682,
             "timestamp":1349827200
           },
           {
@@ -20174,7 +20174,7 @@
             "timestamp":1349913600
           },
           {
-            "mentions":1846,
+            "mentions":1845,
             "timestamp":1350000000
           },
           {
@@ -20186,7 +20186,7 @@
             "timestamp":1350172800
           },
           {
-            "mentions":1776,
+            "mentions":1774,
             "timestamp":1350259200
           },
           {
@@ -20222,7 +20222,7 @@
             "timestamp":1350950400
           },
           {
-            "mentions":1913,
+            "mentions":1912,
             "timestamp":1351036800
           },
           {
@@ -20338,7 +20338,7 @@
             "timestamp":1353456000
           },
           {
-            "mentions":2254,
+            "mentions":2253,
             "timestamp":1353542400
           },
           {
@@ -20370,23 +20370,23 @@
             "timestamp":1354147200
           },
           {
-            "mentions":2327,
+            "mentions":2325,
             "timestamp":1354233600
           },
           {
-            "mentions":2227,
+            "mentions":2226,
             "timestamp":1354320000
           },
           {
-            "mentions":2024,
+            "mentions":2022,
             "timestamp":1354406400
           },
           {
-            "mentions":2150,
+            "mentions":2147,
             "timestamp":1354492800
           },
           {
-            "mentions":2466,
+            "mentions":2465,
             "timestamp":1354579200
           },
           {
@@ -20394,7 +20394,7 @@
             "timestamp":1354665600
           },
           {
-            "mentions":2340,
+            "mentions":2336,
             "timestamp":1354752000
           },
           {
@@ -20402,19 +20402,19 @@
             "timestamp":1354838400
           },
           {
-            "mentions":2223,
+            "mentions":2221,
             "timestamp":1354924800
           },
           {
-            "mentions":2247,
+            "mentions":2245,
             "timestamp":1355011200
           },
           {
-            "mentions":2368,
+            "mentions":2367,
             "timestamp":1355097600
           },
           {
-            "mentions":2419,
+            "mentions":2416,
             "timestamp":1355184000
           },
           {
@@ -20422,7 +20422,7 @@
             "timestamp":1355270400
           },
           {
-            "mentions":2440,
+            "mentions":2438,
             "timestamp":1355356800
           },
           {
@@ -20438,19 +20438,19 @@
             "timestamp":1355616000
           },
           {
-            "mentions":2576,
+            "mentions":2575,
             "timestamp":1355702400
           },
           {
-            "mentions":2660,
+            "mentions":2659,
             "timestamp":1355788800
           },
           {
-            "mentions":2536,
+            "mentions":2535,
             "timestamp":1355875200
           },
           {
-            "mentions":2594,
+            "mentions":2593,
             "timestamp":1355961600
           },
           {
@@ -20474,11 +20474,11 @@
             "timestamp":1356393600
           },
           {
-            "mentions":2721,
+            "mentions":2720,
             "timestamp":1356480000
           },
           {
-            "mentions":2801,
+            "mentions":2800,
             "timestamp":1356566400
           },
           {
@@ -20498,7 +20498,7 @@
             "timestamp":1356912000
           },
           {
-            "mentions":2078,
+            "mentions":2077,
             "timestamp":1356998400
           },
           {
@@ -20510,7 +20510,7 @@
             "timestamp":1357171200
           },
           {
-            "mentions":2880,
+            "mentions":2879,
             "timestamp":1357257600
           },
           {
@@ -20538,7 +20538,7 @@
             "timestamp":1357776000
           },
           {
-            "mentions":2594,
+            "mentions":2593,
             "timestamp":1357862400
           },
           {
@@ -20546,7 +20546,7 @@
             "timestamp":1357948800
           },
           {
-            "mentions":2408,
+            "mentions":2407,
             "timestamp":1358035200
           },
           {
@@ -20590,7 +20590,7 @@
             "timestamp":1358899200
           },
           {
-            "mentions":2659,
+            "mentions":2658,
             "timestamp":1358985600
           },
           {
@@ -20706,7 +20706,7 @@
             "timestamp":1361404800
           },
           {
-            "mentions":2407,
+            "mentions":2405,
             "timestamp":1361491200
           },
           {
@@ -20730,7 +20730,7 @@
             "timestamp":1361923200
           },
           {
-            "mentions":2307,
+            "mentions":2304,
             "timestamp":1362009600
           },
           {
@@ -20742,7 +20742,7 @@
             "timestamp":1362182400
           },
           {
-            "mentions":2147,
+            "mentions":2146,
             "timestamp":1362268800
           },
           {
@@ -20754,7 +20754,7 @@
             "timestamp":1362441600
           },
           {
-            "mentions":2076,
+            "mentions":2075,
             "timestamp":1362528000
           },
           {
@@ -20770,7 +20770,7 @@
             "timestamp":1362787200
           },
           {
-            "mentions":2288,
+            "mentions":2287,
             "timestamp":1362873600
           },
           {
@@ -20778,7 +20778,7 @@
             "timestamp":1362960000
           },
           {
-            "mentions":1767,
+            "mentions":1766,
             "timestamp":1363046400
           },
           {
@@ -20798,7 +20798,7 @@
             "timestamp":1363392000
           },
           {
-            "mentions":2373,
+            "mentions":2371,
             "timestamp":1363478400
           },
           {
@@ -20806,7 +20806,7 @@
             "timestamp":1363564800
           },
           {
-            "mentions":2166,
+            "mentions":2165,
             "timestamp":1363651200
           },
           {
@@ -20818,11 +20818,11 @@
             "timestamp":1363824000
           },
           {
-            "mentions":2521,
+            "mentions":2520,
             "timestamp":1363910400
           },
           {
-            "mentions":2549,
+            "mentions":2548,
             "timestamp":1363996800
           },
           {
@@ -20834,19 +20834,19 @@
             "timestamp":1364169600
           },
           {
-            "mentions":2759,
+            "mentions":2758,
             "timestamp":1364256000
           },
           {
-            "mentions":2819,
+            "mentions":2818,
             "timestamp":1364342400
           },
           {
-            "mentions":2763,
+            "mentions":2761,
             "timestamp":1364428800
           },
           {
-            "mentions":2605,
+            "mentions":2604,
             "timestamp":1364515200
           },
           {
@@ -20886,11 +20886,11 @@
             "timestamp":1365292800
           },
           {
-            "mentions":2040,
+            "mentions":2038,
             "timestamp":1365379200
           },
           {
-            "mentions":1958,
+            "mentions":1957,
             "timestamp":1365465600
           },
           {
@@ -20906,7 +20906,7 @@
             "timestamp":1365724800
           },
           {
-            "mentions":2208,
+            "mentions":2207,
             "timestamp":1365811200
           },
           {
@@ -20922,7 +20922,7 @@
             "timestamp":1366070400
           },
           {
-            "mentions":2265,
+            "mentions":2264,
             "timestamp":1366156800
           },
           {
@@ -20942,7 +20942,7 @@
             "timestamp":1366502400
           },
           {
-            "mentions":820,
+            "mentions":819,
             "timestamp":1366588800
           },
           {
@@ -20954,11 +20954,11 @@
             "timestamp":1366761600
           },
           {
-            "mentions":2220,
+            "mentions":2218,
             "timestamp":1366848000
           },
           {
-            "mentions":2424,
+            "mentions":2422,
             "timestamp":1366934400
           },
           {
@@ -20970,7 +20970,7 @@
             "timestamp":1367107200
           },
           {
-            "mentions":2248,
+            "mentions":2247,
             "timestamp":1367193600
           },
           {
@@ -20978,7 +20978,7 @@
             "timestamp":1367280000
           },
           {
-            "mentions":2389,
+            "mentions":2388,
             "timestamp":1367366400
           },
           {
@@ -20986,7 +20986,7 @@
             "timestamp":1367452800
           },
           {
-            "mentions":2608,
+            "mentions":2606,
             "timestamp":1367539200
           },
           {
@@ -20994,11 +20994,11 @@
             "timestamp":1367625600
           },
           {
-            "mentions":2765,
+            "mentions":2764,
             "timestamp":1367712000
           },
           {
-            "mentions":2521,
+            "mentions":2520,
             "timestamp":1367798400
           },
           {
@@ -21058,7 +21058,7 @@
             "timestamp":1369008000
           },
           {
-            "mentions":2325,
+            "mentions":2324,
             "timestamp":1369094400
           },
           {
@@ -21066,7 +21066,7 @@
             "timestamp":1369180800
           },
           {
-            "mentions":2279,
+            "mentions":2276,
             "timestamp":1369267200
           },
           {
@@ -21074,35 +21074,35 @@
             "timestamp":1369353600
           },
           {
-            "mentions":2402,
+            "mentions":2401,
             "timestamp":1369440000
           },
           {
-            "mentions":2300,
+            "mentions":2299,
             "timestamp":1369526400
           },
           {
-            "mentions":2714,
+            "mentions":2712,
             "timestamp":1369612800
           },
           {
-            "mentions":2813,
+            "mentions":2811,
             "timestamp":1369699200
           },
           {
-            "mentions":2722,
+            "mentions":2721,
             "timestamp":1369785600
           },
           {
-            "mentions":2754,
+            "mentions":2753,
             "timestamp":1369872000
           },
           {
-            "mentions":2568,
+            "mentions":2567,
             "timestamp":1369958400
           },
           {
-            "mentions":2220,
+            "mentions":2218,
             "timestamp":1370044800
           },
           {
@@ -21110,7 +21110,7 @@
             "timestamp":1370131200
           },
           {
-            "mentions":2588,
+            "mentions":2587,
             "timestamp":1370217600
           },
           {
@@ -21118,7 +21118,7 @@
             "timestamp":1370304000
           },
           {
-            "mentions":2835,
+            "mentions":2834,
             "timestamp":1370390400
           },
           {
@@ -21126,15 +21126,15 @@
             "timestamp":1370476800
           },
           {
-            "mentions":2658,
+            "mentions":2657,
             "timestamp":1370563200
           },
           {
-            "mentions":2438,
+            "mentions":2437,
             "timestamp":1370649600
           },
           {
-            "mentions":2067,
+            "mentions":2065,
             "timestamp":1370736000
           },
           {
@@ -21150,11 +21150,11 @@
             "timestamp":1370995200
           },
           {
-            "mentions":2131,
+            "mentions":2130,
             "timestamp":1371081600
           },
           {
-            "mentions":2146,
+            "mentions":2145,
             "timestamp":1371168000
           },
           {
@@ -21166,7 +21166,7 @@
             "timestamp":1371340800
           },
           {
-            "mentions":2245,
+            "mentions":2244,
             "timestamp":1371427200
           },
           {
@@ -21174,7 +21174,7 @@
             "timestamp":1371513600
           },
           {
-            "mentions":2247,
+            "mentions":2245,
             "timestamp":1371600000
           },
           {
@@ -21182,7 +21182,7 @@
             "timestamp":1371686400
           },
           {
-            "mentions":2499,
+            "mentions":2498,
             "timestamp":1371772800
           },
           {
@@ -21194,7 +21194,7 @@
             "timestamp":1371945600
           },
           {
-            "mentions":2578,
+            "mentions":2577,
             "timestamp":1372032000
           },
           {
@@ -21206,11 +21206,11 @@
             "timestamp":1372204800
           },
           {
-            "mentions":2376,
+            "mentions":2372,
             "timestamp":1372291200
           },
           {
-            "mentions":2676,
+            "mentions":2675,
             "timestamp":1372377600
           },
           {
@@ -21226,11 +21226,11 @@
             "timestamp":1372636800
           },
           {
-            "mentions":2224,
+            "mentions":2223,
             "timestamp":1372723200
           },
           {
-            "mentions":1857,
+            "mentions":1855,
             "timestamp":1372809600
           },
           {
@@ -21238,7 +21238,7 @@
             "timestamp":1372896000
           },
           {
-            "mentions":2421,
+            "mentions":2420,
             "timestamp":1372982400
           },
           {
@@ -21246,7 +21246,7 @@
             "timestamp":1373068800
           },
           {
-            "mentions":2272,
+            "mentions":2271,
             "timestamp":1373155200
           },
           {
@@ -21254,27 +21254,27 @@
             "timestamp":1373241600
           },
           {
-            "mentions":2182,
+            "mentions":2181,
             "timestamp":1373328000
           },
           {
-            "mentions":2144,
+            "mentions":2143,
             "timestamp":1373414400
           },
           {
-            "mentions":2405,
+            "mentions":2403,
             "timestamp":1373500800
           },
           {
-            "mentions":2703,
+            "mentions":2700,
             "timestamp":1373587200
           },
           {
-            "mentions":2711,
+            "mentions":2708,
             "timestamp":1373673600
           },
           {
-            "mentions":2270,
+            "mentions":2269,
             "timestamp":1373760000
           },
           {
@@ -21290,51 +21290,51 @@
             "timestamp":1374019200
           },
           {
-            "mentions":2355,
+            "mentions":2353,
             "timestamp":1374105600
           },
           {
-            "mentions":2388,
+            "mentions":2604,
             "timestamp":1374192000
           },
           {
-            "mentions":2295,
+            "mentions":2558,
             "timestamp":1374278400
           },
           {
-            "mentions":2192,
+            "mentions":2414,
             "timestamp":1374364800
           },
           {
-            "mentions":1939,
+            "mentions":2177,
             "timestamp":1374451200
           },
           {
-            "mentions":1727,
+            "mentions":1892,
             "timestamp":1374537600
           },
           {
-            "mentions":2095,
+            "mentions":2294,
             "timestamp":1374624000
           },
           {
-            "mentions":2187,
+            "mentions":2381,
             "timestamp":1374710400
           },
           {
-            "mentions":2294,
+            "mentions":2526,
             "timestamp":1374796800
           },
           {
-            "mentions":2337,
+            "mentions":2545,
             "timestamp":1374883200
           },
           {
-            "mentions":2050,
+            "mentions":2263,
             "timestamp":1374969600
           },
           {
-            "mentions":2071,
+            "mentions":2267,
             "timestamp":1375056000
           },
           {
@@ -21342,15 +21342,15 @@
             "timestamp":1375142400
           },
           {
-            "mentions":1886,
+            "mentions":1885,
             "timestamp":1375228800
           },
           {
-            "mentions":1984,
+            "mentions":1983,
             "timestamp":1375315200
           },
           {
-            "mentions":2155,
+            "mentions":2154,
             "timestamp":1375401600
           },
           {
@@ -21358,7 +21358,7 @@
             "timestamp":1375488000
           },
           {
-            "mentions":2442,
+            "mentions":2441,
             "timestamp":1375574400
           },
           {
@@ -21378,7 +21378,7 @@
             "timestamp":1375920000
           },
           {
-            "mentions":1743,
+            "mentions":1742,
             "timestamp":1376006400
           },
           {
@@ -21386,7 +21386,7 @@
             "timestamp":1376092800
           },
           {
-            "mentions":2047,
+            "mentions":2046,
             "timestamp":1376179200
           },
           {
@@ -21394,7 +21394,7 @@
             "timestamp":1376265600
           },
           {
-            "mentions":2205,
+            "mentions":2204,
             "timestamp":1376352000
           },
           {
@@ -21402,19 +21402,19 @@
             "timestamp":1376438400
           },
           {
-            "mentions":2542,
+            "mentions":2541,
             "timestamp":1376524800
           },
           {
-            "mentions":2328,
+            "mentions":2327,
             "timestamp":1376611200
           },
           {
-            "mentions":2102,
+            "mentions":2101,
             "timestamp":1376697600
           },
           {
-            "mentions":1809,
+            "mentions":1808,
             "timestamp":1376784000
           },
           {
@@ -21422,7 +21422,7 @@
             "timestamp":1376870400
           },
           {
-            "mentions":1951,
+            "mentions":1949,
             "timestamp":1376956800
           },
           {
@@ -21430,15 +21430,15 @@
             "timestamp":1377043200
           },
           {
-            "mentions":1959,
+            "mentions":1957,
             "timestamp":1377129600
           },
           {
-            "mentions":1933,
+            "mentions":1931,
             "timestamp":1377216000
           },
           {
-            "mentions":1958,
+            "mentions":1957,
             "timestamp":1377302400
           },
           {
@@ -21458,7 +21458,7 @@
             "timestamp":1377648000
           },
           {
-            "mentions":1950,
+            "mentions":1949,
             "timestamp":1377734400
           },
           {
@@ -21478,7 +21478,7 @@
             "timestamp":1378080000
           },
           {
-            "mentions":1852,
+            "mentions":1850,
             "timestamp":1378166400
           },
           {
@@ -21486,7 +21486,7 @@
             "timestamp":1378252800
           },
           {
-            "mentions":1868,
+            "mentions":1867,
             "timestamp":1378339200
           },
           {
@@ -21518,7 +21518,7 @@
             "timestamp":1378944000
           },
           {
-            "mentions":2228,
+            "mentions":2227,
             "timestamp":1379030400
           },
           {
@@ -21530,7 +21530,7 @@
             "timestamp":1379203200
           },
           {
-            "mentions":2077,
+            "mentions":2074,
             "timestamp":1379289600
           },
           {
@@ -21538,7 +21538,7 @@
             "timestamp":1379376000
           },
           {
-            "mentions":2019,
+            "mentions":2018,
             "timestamp":1379462400
           },
           {
@@ -21550,7 +21550,7 @@
             "timestamp":1379635200
           },
           {
-            "mentions":2800,
+            "mentions":2799,
             "timestamp":1379721600
           },
           {
@@ -21566,7 +21566,7 @@
             "timestamp":1379980800
           },
           {
-            "mentions":1731,
+            "mentions":1730,
             "timestamp":1380067200
           },
           {
@@ -21582,7 +21582,7 @@
             "timestamp":1380326400
           },
           {
-            "mentions":2131,
+            "mentions":2130,
             "timestamp":1380412800
           },
           {
@@ -21606,7 +21606,7 @@
             "timestamp":1380844800
           },
           {
-            "mentions":2259,
+            "mentions":2257,
             "timestamp":1380931200
           },
           {
@@ -21622,11 +21622,11 @@
             "timestamp":1381190400
           },
           {
-            "mentions":2458,
+            "mentions":2457,
             "timestamp":1381276800
           },
           {
-            "mentions":2061,
+            "mentions":2060,
             "timestamp":1381363200
           },
           {
@@ -21634,11 +21634,11 @@
             "timestamp":1381449600
           },
           {
-            "mentions":2386,
+            "mentions":2384,
             "timestamp":1381536000
           },
           {
-            "mentions":2508,
+            "mentions":2505,
             "timestamp":1381622400
           },
           {
@@ -21646,11 +21646,11 @@
             "timestamp":1381708800
           },
           {
-            "mentions":2604,
+            "mentions":2603,
             "timestamp":1381795200
           },
           {
-            "mentions":2354,
+            "mentions":2353,
             "timestamp":1381881600
           },
           {
@@ -21662,7 +21662,7 @@
             "timestamp":1382054400
           },
           {
-            "mentions":2373,
+            "mentions":2372,
             "timestamp":1382140800
           },
           {
@@ -21670,7 +21670,7 @@
             "timestamp":1382227200
           },
           {
-            "mentions":2592,
+            "mentions":2591,
             "timestamp":1382313600
           },
           {
@@ -21690,7 +21690,7 @@
             "timestamp":1382659200
           },
           {
-            "mentions":2187,
+            "mentions":2186,
             "timestamp":1382745600
           },
           {
@@ -21742,7 +21742,7 @@
             "timestamp":1383782400
           },
           {
-            "mentions":1958,
+            "mentions":1956,
             "timestamp":1383868800
           },
           {
@@ -21774,7 +21774,7 @@
             "timestamp":1384473600
           },
           {
-            "mentions":2279,
+            "mentions":2275,
             "timestamp":1384560000
           },
           {
@@ -21782,11 +21782,11 @@
             "timestamp":1384646400
           },
           {
-            "mentions":2086,
+            "mentions":2083,
             "timestamp":1384732800
           },
           {
-            "mentions":1908,
+            "mentions":1906,
             "timestamp":1384819200
           },
           {
@@ -21798,15 +21798,15 @@
             "timestamp":1384992000
           },
           {
-            "mentions":1963,
+            "mentions":1959,
             "timestamp":1385078400
           },
           {
-            "mentions":1911,
+            "mentions":1908,
             "timestamp":1385164800
           },
           {
-            "mentions":1803,
+            "mentions":1801,
             "timestamp":1385251200
           },
           {
@@ -21814,7 +21814,7 @@
             "timestamp":1385337600
           },
           {
-            "mentions":2638,
+            "mentions":2634,
             "timestamp":1385424000
           },
           {
@@ -21822,71 +21822,71 @@
             "timestamp":1385510400
           },
           {
-            "mentions":2279,
+            "mentions":2278,
             "timestamp":1385596800
           },
           {
-            "mentions":2103,
+            "mentions":2102,
             "timestamp":1385683200
           },
           {
-            "mentions":1739,
+            "mentions":1738,
             "timestamp":1385769600
           },
           {
-            "mentions":1632,
+            "mentions":1492,
             "timestamp":1385856000
           },
           {
-            "mentions":1775,
+            "mentions":1602,
             "timestamp":1385942400
           },
           {
-            "mentions":1779,
+            "mentions":1615,
             "timestamp":1386028800
           },
           {
-            "mentions":1753,
+            "mentions":1596,
             "timestamp":1386115200
           },
           {
-            "mentions":1751,
+            "mentions":1594,
             "timestamp":1386201600
           },
           {
-            "mentions":1767,
+            "mentions":1619,
             "timestamp":1386288000
           },
           {
-            "mentions":1642,
+            "mentions":1516,
             "timestamp":1386374400
           },
           {
-            "mentions":1660,
+            "mentions":1505,
             "timestamp":1386460800
           },
           {
-            "mentions":1731,
+            "mentions":1599,
             "timestamp":1386547200
           },
           {
-            "mentions":1718,
+            "mentions":1557,
             "timestamp":1386633600
           },
           {
-            "mentions":1847,
+            "mentions":1678,
             "timestamp":1386720000
           },
           {
-            "mentions":1750,
+            "mentions":1729,
             "timestamp":1386806400
           },
           {
-            "mentions":1771,
+            "mentions":1770,
             "timestamp":1386892800
           },
           {
-            "mentions":1630,
+            "mentions":1629,
             "timestamp":1386979200
           },
           {
@@ -21898,7 +21898,7 @@
             "timestamp":1387152000
           },
           {
-            "mentions":2249,
+            "mentions":2243,
             "timestamp":1387238400
           },
           {
@@ -21910,11 +21910,11 @@
             "timestamp":1387411200
           },
           {
-            "mentions":1910,
+            "mentions":1904,
             "timestamp":1387497600
           },
           {
-            "mentions":1672,
+            "mentions":1671,
             "timestamp":1387584000
           },
           {
@@ -21938,7 +21938,7 @@
             "timestamp":1388016000
           },
           {
-            "mentions":1771,
+            "mentions":1770,
             "timestamp":1388102400
           },
           {
@@ -21950,15 +21950,15 @@
             "timestamp":1388275200
           },
           {
-            "mentions":1710,
+            "mentions":1709,
             "timestamp":1388361600
           },
           {
-            "mentions":1797,
+            "mentions":1796,
             "timestamp":1388448000
           },
           {
-            "mentions":1396,
+            "mentions":1395,
             "timestamp":1388534400
           },
           {
@@ -21974,11 +21974,11 @@
             "timestamp":1388793600
           },
           {
-            "mentions":1638,
+            "mentions":1637,
             "timestamp":1388880000
           },
           {
-            "mentions":1512,
+            "mentions":1511,
             "timestamp":1388966400
           },
           {
@@ -21990,7 +21990,7 @@
             "timestamp":1389139200
           },
           {
-            "mentions":1685,
+            "mentions":1684,
             "timestamp":1389225600
           },
           {
@@ -21998,7 +21998,7 @@
             "timestamp":1389312000
           },
           {
-            "mentions":1542,
+            "mentions":1541,
             "timestamp":1389398400
           },
           {
@@ -22006,7 +22006,7 @@
             "timestamp":1389484800
           },
           {
-            "mentions":1339,
+            "mentions":1338,
             "timestamp":1389571200
           },
           {
@@ -22018,7 +22018,7 @@
             "timestamp":1389744000
           },
           {
-            "mentions":1348,
+            "mentions":1347,
             "timestamp":1389830400
           },
           {
@@ -22070,11 +22070,11 @@
             "timestamp":1390867200
           },
           {
-            "mentions":1330,
+            "mentions":1329,
             "timestamp":1390953600
           },
           {
-            "mentions":1378,
+            "mentions":1377,
             "timestamp":1391040000
           },
           {
@@ -22114,7 +22114,7 @@
             "timestamp":1391817600
           },
           {
-            "mentions":1386,
+            "mentions":1385,
             "timestamp":1391904000
           },
           {
@@ -22126,7 +22126,7 @@
             "timestamp":1392076800
           },
           {
-            "mentions":1405,
+            "mentions":1404,
             "timestamp":1392163200
           },
           {
@@ -22142,11 +22142,11 @@
             "timestamp":1392422400
           },
           {
-            "mentions":1269,
+            "mentions":1268,
             "timestamp":1392508800
           },
           {
-            "mentions":1130,
+            "mentions":1129,
             "timestamp":1392595200
           },
           {
@@ -22166,7 +22166,7 @@
             "timestamp":1392940800
           },
           {
-            "mentions":1566,
+            "mentions":1565,
             "timestamp":1393027200
           },
           {
@@ -22174,7 +22174,7 @@
             "timestamp":1393113600
           },
           {
-            "mentions":1281,
+            "mentions":1278,
             "timestamp":1393200000
           },
           {
@@ -22182,7 +22182,7 @@
             "timestamp":1393286400
           },
           {
-            "mentions":1109,
+            "mentions":1108,
             "timestamp":1393372800
           },
           {
@@ -22190,7 +22190,7 @@
             "timestamp":1393459200
           },
           {
-            "mentions":1392,
+            "mentions":1391,
             "timestamp":1393545600
           },
           {
@@ -22198,7 +22198,7 @@
             "timestamp":1393632000
           },
           {
-            "mentions":1287,
+            "mentions":1286,
             "timestamp":1393718400
           },
           {
@@ -22242,7 +22242,7 @@
             "timestamp":1394582400
           },
           {
-            "mentions":1099,
+            "mentions":1097,
             "timestamp":1394668800
           },
           {
@@ -22258,11 +22258,11 @@
             "timestamp":1394928000
           },
           {
-            "mentions":1265,
+            "mentions":1264,
             "timestamp":1395014400
           },
           {
-            "mentions":1411,
+            "mentions":1408,
             "timestamp":1395100800
           },
           {
@@ -22274,7 +22274,7 @@
             "timestamp":1395273600
           },
           {
-            "mentions":1332,
+            "mentions":1331,
             "timestamp":1395360000
           },
           {
@@ -22322,7 +22322,7 @@
             "timestamp":1396310400
           },
           {
-            "mentions":1072,
+            "mentions":1071,
             "timestamp":1396396800
           },
           {
@@ -22346,15 +22346,15 @@
             "timestamp":1396828800
           },
           {
-            "mentions":991,
+            "mentions":990,
             "timestamp":1396915200
           },
           {
-            "mentions":1152,
+            "mentions":1151,
             "timestamp":1397001600
           },
           {
-            "mentions":1137,
+            "mentions":1136,
             "timestamp":1397088000
           },
           {
@@ -22370,11 +22370,11 @@
             "timestamp":1397347200
           },
           {
-            "mentions":999,
+            "mentions":998,
             "timestamp":1397433600
           },
           {
-            "mentions":969,
+            "mentions":966,
             "timestamp":1397520000
           },
           {
@@ -22382,11 +22382,11 @@
             "timestamp":1397606400
           },
           {
-            "mentions":1039,
+            "mentions":1038,
             "timestamp":1397692800
           },
           {
-            "mentions":1234,
+            "mentions":1233,
             "timestamp":1397779200
           },
           {
@@ -22402,19 +22402,19 @@
             "timestamp":1398038400
           },
           {
-            "mentions":945,
+            "mentions":944,
             "timestamp":1398124800
           },
           {
-            "mentions":965,
+            "mentions":964,
             "timestamp":1398211200
           },
           {
-            "mentions":1046,
+            "mentions":1043,
             "timestamp":1398297600
           },
           {
-            "mentions":1009,
+            "mentions":1008,
             "timestamp":1398384000
           },
           {
@@ -22478,7 +22478,7 @@
             "timestamp":1399680000
           },
           {
-            "mentions":1150,
+            "mentions":1149,
             "timestamp":1399766400
           },
           {
@@ -22510,7 +22510,7 @@
             "timestamp":1400371200
           },
           {
-            "mentions":938,
+            "mentions":937,
             "timestamp":1400457600
           },
           {
@@ -22518,7 +22518,7 @@
             "timestamp":1400544000
           },
           {
-            "mentions":927,
+            "mentions":926,
             "timestamp":1400630400
           },
           {
@@ -22558,15 +22558,15 @@
             "timestamp":1401408000
           },
           {
-            "mentions":896,
+            "mentions":895,
             "timestamp":1401494400
           },
           {
-            "mentions":957,
+            "mentions":956,
             "timestamp":1401580800
           },
           {
-            "mentions":1053,
+            "mentions":1052,
             "timestamp":1401667200
           },
           {
@@ -22610,7 +22610,7 @@
             "timestamp":1402531200
           },
           {
-            "mentions":915,
+            "mentions":914,
             "timestamp":1402617600
           },
           {
@@ -22626,7 +22626,7 @@
             "timestamp":1402876800
           },
           {
-            "mentions":652,
+            "mentions":651,
             "timestamp":1402963200
           },
           {
@@ -22682,7 +22682,7 @@
             "timestamp":1404086400
           },
           {
-            "mentions":808,
+            "mentions":807,
             "timestamp":1404172800
           },
           {
@@ -22694,7 +22694,7 @@
             "timestamp":1404345600
           },
           {
-            "mentions":1098,
+            "mentions":1097,
             "timestamp":1404432000
           },
           {
@@ -22714,7 +22714,7 @@
             "timestamp":1404777600
           },
           {
-            "mentions":644,
+            "mentions":643,
             "timestamp":1404864000
           },
           {
@@ -22734,7 +22734,7 @@
             "timestamp":1405209600
           },
           {
-            "mentions":847,
+            "mentions":846,
             "timestamp":1405296000
           },
           {
@@ -22742,7 +22742,7 @@
             "timestamp":1405382400
           },
           {
-            "mentions":762,
+            "mentions":761,
             "timestamp":1405468800
           },
           {
@@ -22754,7 +22754,7 @@
             "timestamp":1405641600
           },
           {
-            "mentions":804,
+            "mentions":803,
             "timestamp":1405728000
           },
           {
@@ -22770,7 +22770,7 @@
             "timestamp":1405987200
           },
           {
-            "mentions":734,
+            "mentions":733,
             "timestamp":1406073600
           },
           {
@@ -22798,7 +22798,7 @@
             "timestamp":1406592000
           },
           {
-            "mentions":627,
+            "mentions":626,
             "timestamp":1406678400
           },
           {
@@ -22874,7 +22874,7 @@
             "timestamp":1408233600
           },
           {
-            "mentions":570,
+            "mentions":569,
             "timestamp":1408320000
           },
           {
@@ -22910,7 +22910,7 @@
             "timestamp":1409011200
           },
           {
-            "mentions":588,
+            "mentions":587,
             "timestamp":1409097600
           },
           {
@@ -22922,47 +22922,47 @@
             "timestamp":1409270400
           },
           {
-            "mentions":749,
+            "mentions":748,
             "timestamp":1409356800
           },
           {
-            "mentions":673,
+            "mentions":672,
             "timestamp":1409443200
           },
           {
-            "mentions":739,
+            "mentions":738,
             "timestamp":1409529600
           },
           {
-            "mentions":2223,
+            "mentions":2222,
             "timestamp":1409616000
           },
           {
-            "mentions":969,
+            "mentions":965,
             "timestamp":1409702400
           },
           {
-            "mentions":657,
+            "mentions":653,
             "timestamp":1409788800
           },
           {
-            "mentions":754,
+            "mentions":752,
             "timestamp":1409875200
           },
           {
-            "mentions":609,
+            "mentions":608,
             "timestamp":1409961600
           },
           {
-            "mentions":565,
+            "mentions":564,
             "timestamp":1410048000
           },
           {
-            "mentions":524,
+            "mentions":523,
             "timestamp":1410134400
           },
           {
-            "mentions":629,
+            "mentions":628,
             "timestamp":1410220800
           },
           {
@@ -22974,7 +22974,7 @@
             "timestamp":1410393600
           },
           {
-            "mentions":864,
+            "mentions":860,
             "timestamp":1410480000
           },
           {
@@ -22982,15 +22982,15 @@
             "timestamp":1410566400
           },
           {
-            "mentions":645,
+            "mentions":644,
             "timestamp":1410652800
           },
           {
-            "mentions":721,
+            "mentions":720,
             "timestamp":1410739200
           },
           {
-            "mentions":647,
+            "mentions":646,
             "timestamp":1410825600
           },
           {
@@ -22998,7 +22998,7 @@
             "timestamp":1410912000
           },
           {
-            "mentions":715,
+            "mentions":713,
             "timestamp":1410998400
           },
           {
@@ -23022,7 +23022,7 @@
             "timestamp":1411430400
           },
           {
-            "mentions":544,
+            "mentions":543,
             "timestamp":1411516800
           },
           {
@@ -23030,7 +23030,7 @@
             "timestamp":1411603200
           },
           {
-            "mentions":586,
+            "mentions":585,
             "timestamp":1411689600
           },
           {
@@ -23042,7 +23042,7 @@
             "timestamp":1411862400
           },
           {
-            "mentions":602,
+            "mentions":600,
             "timestamp":1411948800
           },
           {
@@ -23066,7 +23066,7 @@
             "timestamp":1412380800
           },
           {
-            "mentions":742,
+            "mentions":740,
             "timestamp":1412467200
           },
           {
@@ -23074,11 +23074,11 @@
             "timestamp":1412553600
           },
           {
-            "mentions":474,
+            "mentions":473,
             "timestamp":1412640000
           },
           {
-            "mentions":415,
+            "mentions":414,
             "timestamp":1412726400
           },
           {
@@ -23178,7 +23178,7 @@
             "timestamp":1414800000
           },
           {
-            "mentions":520,
+            "mentions":519,
             "timestamp":1414886400
           },
           {
@@ -23186,7 +23186,7 @@
             "timestamp":1414972800
           },
           {
-            "mentions":619,
+            "mentions":618,
             "timestamp":1415059200
           },
           {
@@ -23198,7 +23198,7 @@
             "timestamp":1415232000
           },
           {
-            "mentions":685,
+            "mentions":684,
             "timestamp":1415318400
           },
           {
@@ -23210,11 +23210,11 @@
             "timestamp":1415491200
           },
           {
-            "mentions":641,
+            "mentions":640,
             "timestamp":1415577600
           },
           {
-            "mentions":600,
+            "mentions":599,
             "timestamp":1415664000
           },
           {
@@ -23230,19 +23230,19 @@
             "timestamp":1415923200
           },
           {
-            "mentions":680,
+            "mentions":679,
             "timestamp":1416009600
           },
           {
-            "mentions":552,
+            "mentions":551,
             "timestamp":1416096000
           },
           {
-            "mentions":593,
+            "mentions":602,
             "timestamp":1416182400
           },
           {
-            "mentions":438,
+            "mentions":458,
             "timestamp":1416268800
           },
           {
@@ -23326,7 +23326,7 @@
             "timestamp":1417996800
           },
           {
-            "mentions":477,
+            "mentions":476,
             "timestamp":1418083200
           },
           {
@@ -23342,7 +23342,7 @@
             "timestamp":1418342400
           },
           {
-            "mentions":427,
+            "mentions":426,
             "timestamp":1418428800
           },
           {
@@ -23350,11 +23350,11 @@
             "timestamp":1418515200
           },
           {
-            "mentions":475,
+            "mentions":473,
             "timestamp":1418601600
           },
           {
-            "mentions":453,
+            "mentions":452,
             "timestamp":1418688000
           },
           {

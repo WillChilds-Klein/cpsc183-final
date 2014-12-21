@@ -20,20 +20,6 @@ $(document).ready(function() {
     small.top = 20;
     small.xax_count = 5;
 
-    d3.json('data/ufo-sightings.json', function(data) {
-        data_graphic({
-            title: "UFO Sightings",
-            description: "Yearly UFO sightings from the year 1945 to 2010.",
-            data: data,
-            width: 650,
-            height: 150,
-            target: '#ufo-sightings',
-            x_accessor: 'year',
-            y_accessor: 'sightings',
-            markers: [{'year': 1964, 'label': '"The Creeping Terror" released'}]
-        })
-    })
-
     d3.json('data/mentions_data_post2011.json', function(data) {
         for(var i=0;i<data.length;i++) {
             data[i] = convert_dates(data[i], 'date');

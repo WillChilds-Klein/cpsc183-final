@@ -10,7 +10,6 @@ import io
 import re
 
 def clean_responses(responses, convert_timestamps=True):
-
     clean_data = []
 
     for response in responses:
@@ -18,8 +17,10 @@ def clean_responses(responses, convert_timestamps=True):
             data = response['response']['results'][1]['data']
         except:
             print 'whoops! bad response in file %s !!' % filepath
+            clean_data.append([])
             continue
-        
+        else:
+            print 'YO! ' + str(len(data))
             for data_point in data:
                 # convert from UNIX time to human date
                 if convert_timestamps:
@@ -27,7 +28,7 @@ def clean_responses(responses, convert_timestamps=True):
                     data_point['date'] = dtime.strftime('%Y-%m-%d')
                     del data_point['timestamp']
 
-        clean_data.append(data)
+            clean_data.append(data)
 
     return clean_data
 
@@ -38,9 +39,7 @@ def write_data(clean_data, out_names=['merged.json'], out_dir='data/',
         merged = []
         for data in clean_data:
             merged.append(data)
-            print 'in iters ' + str(len(merged))
         clean_data = [merged]
-        print 'out of iters: ' + str(len(clean_data))
 
     out_paths = []
     for data, out_name in zip(clean_data, out_names):
@@ -51,7 +50,6 @@ def write_data(clean_data, out_names=['merged.json'], out_dir='data/',
             print 'wrote file %s' % out_path
             out_paths.append(out_path)
 
-    print 'all files written!'
     return out_paths
 
 

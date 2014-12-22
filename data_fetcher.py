@@ -1,65 +1,52 @@
 #!/usr/bin/python
 
+from pytopsy import fetch, clean
 from pprint import pprint
-import requests
-from datetime import datetime
-import json
-import os.path
-import sys
-import io
-import re
 
-
-BASE_TOPSY_URL = 'http://api.topsy.com/v2/'
-
-with open ("topsy.key", "r") as key:
-    API_KEY = key.read().rstrip()
-print 'API_KEY: %s' % API_KEY
-
-MENTIONS = 'metrics/mentions.json'
-SENTIMENT = 'metrics/sentiment.json'
-
-BASE_MINTIME = 1167609600 # 1/1/07
-# BASE_MINTIME = 1293840001 # 1/1/11
-BASE_MAXTIME = 1418905900 # 12/18/14
-
-ROOT_DIR_NAME = 'cpsc183-final'
-DATA_DIR_NAME = 'data'
-SCRIPTS_DIR_NAME = 'scripts'
-
-JSON_APPENDAGE = '.json'
-CLEAN_JSON_APPENDAGE = '-CLEAN' + JSON_APPENDAGE
+api_key = fetch.read_key()
 
 def run():
-    print 'data_fetcher.py running!!'
+
+    mentions_data_paths = mentions()
+    print 'mentions data written to: ' 
+    pprint(mentions_data_paths, indent=2)
+
+
+def mentions():
     keyword_lists = [
         ['patent troll', '#patenttroll'],
         ['pae', '#pae'],
         ['pme', '#pme'],
         ['npe', '#npe']
     ]
-    print 'keyword_lists:'
-    pprint(keyword_lists, indent=2)
+    conjunctions = ['OR','OR','OR','OR','OR']
 
-    base_url = BASE_TOPSY_URL + MENTIONS
-    queries = build_mentions_queries(keyword_lists)
+    years = ['2010','2011','2012', '2013', '2014']
 
-    responses = make_requests(base_url, queries)
-    if responses == None or len(responses) == 0:
-        print 'requests came up empty! exiting...'
-        sys.exit(1)
+    data_paths = []
+    for year in years:
+        mintime = year + '-01-01'
+        maxtime = year + '-12-31'
+        outname = 'mentions-' + year + fetch.JSON_APPENDAGE
 
-    data_path = DATA_DIR_NAME
-    parent_dir = os.path.basename(os.path.dirname(os.getcwd()))
-    if parent_dir == ROOT_DIR_NAME:
-        data_path = os.path.join('..', DATA_DIR_NAME)
+        queries = fetch.build_queries(api_key, keyword_lists, 
+                                mintime=mintime, maxtime=maxtime, 
+                                is_timestamp=False)
+        responses = fetch.send_queries('metrics', 'mentions', queries)
 
-    mentions_filenames = write_raw_files(responses, path=data_path)
+        clean_data = clean.clean_responses(responses, convert_timestamps=True)
+        data_path = clean.write_data(clean_data, out_names=[outname])
+        data_paths.append(data_path)
 
-    clean_filenames = clean_mentions_data(mentions_filenames, path=data_path)
+    return data_paths
 
-    merged_filename = merge_files(clean_filenames, path=data_path, 
-                                  outfilename='mentions_data.json')
+
+def sentiment():
+    return
+
+
+def geo():
+    return
 
 
 

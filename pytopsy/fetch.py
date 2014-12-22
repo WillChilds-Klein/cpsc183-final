@@ -98,7 +98,6 @@ def send_queries(api_type, api_name, queries, response_format=JSON_APPENDAGE):
     url = str(posixpath.join(posixpath.join(BASE_TOPSY_URL, api_type),
                              api_name))
     url += ('.' + response_format)
-    print 'url: %s' % url
 
     query_sep = '-' * 35 + '\n\n'
     responses = []

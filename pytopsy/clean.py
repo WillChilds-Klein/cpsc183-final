@@ -20,7 +20,6 @@ def clean_responses(responses, convert_timestamps=True):
             clean_data.append([])
             continue
         else:
-            print 'YO! ' + str(len(data))
             for data_point in data:
                 # convert from UNIX time to human date
                 if convert_timestamps:

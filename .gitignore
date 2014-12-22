@@ -1,3 +1,4 @@
 cpsc183-final-venv
 topsy.key
 *.pyc
+.DS_Store

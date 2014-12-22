@@ -16,11 +16,8 @@ JSON_APPENDAGE = '.json'
 
 BASE_TOPSY_URL = 'http://api.topsy.com/v2/'
 
-MENTIONS = 'metrics/mentions.json'
-SENTIMENT = 'metrics/sentiment.json'
-
 VALID_CONJUNTIONS = ['AND','OR','NOT']
-VALID_API_TYPES = ['contents','metrics','insights']
+VALID_API_TYPES = ['content','metrics','insights']
 
 # BASE_MINTIME = 1167609600 # 1/1/07
 DEFAULT_MINTIME = 1293840001 # 1/1/11
@@ -41,7 +38,7 @@ def read_key(key_dir='.', key_name='topsy.key'):
 
 def build_queries(api_key, keyword_lists, conjunctions=[], slice=86400, 
                   cumulative=0, mintime=DEFAULT_MINTIME, maxtime=DEFAULT_MAXTIME, 
-                  is_timestamp=True, date_format='%Y-%m-%d'):
+                  is_timestamp=True, date_format='%Y-%m-%d', other_params={}):
     if not len(api_key) == 32:
         print 'please specify valid api_key!!'
         return []
@@ -80,10 +77,36 @@ def build_queries(api_key, keyword_lists, conjunctions=[], slice=86400,
         query['mintime'] = mintime
         query['maxtime'] = maxtime
 
+        # add other_params to query
+        for key, value in other_params.items():
+            query[key] = value
+
         queries.append(query)
 
     return queries
-    
+
+
+def query_tweets_by_date(api_key, keywords, dates, radius=0, conjunction='OR',
+                         date_format='%Y-%m-%d', sort='relevance', limit=10):
+    queries = []
+    conjunctions = [conjunction]
+
+    params = {'sort_by': sort, 'limit': limit}
+
+    for date in dates:
+        # convert to UNIX timestamp 
+        d_mintime = datetime.strptime(date, date_format)
+        d_maxtime = datetime.strptime(date, date_format)
+
+        mintime = calendar.timegm(d_mintime.utctimetuple()) - (radius * 86400)
+        maxtime = calendar.timegm(d_maxtime.utctimetuple()) + ((radius+1) * 86399)
+
+        query = build_queries(api_key, [keywords]*1, conjunctions=conjunctions,
+                              mintime=mintime, maxtime=maxtime, 
+                              other_params=params)
+        queries.append(query[0])
+
+    return queries
 
 
 def send_queries(api_type, api_name, queries, response_format=JSON_APPENDAGE):

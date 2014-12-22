@@ -2,14 +2,19 @@
 
 from pytopsy import fetch, clean
 from pprint import pprint
+import json
 
 api_key = fetch.read_key()
 
+SPIKE_DATES_PATH = 'data/spike_dates.json'
+
 def run():
 
-    mentions_data_paths = mentions()
-    print 'mentions data written to: ' 
-    pprint(mentions_data_paths, indent=2)
+    # mentions_data_paths = mentions()
+    # print 'mentions data written to: ' 
+    # pprint(mentions_data_paths, indent=2)
+
+    tweets()
 
 
 def mentions():
@@ -65,6 +70,28 @@ def mentions():
     
 
     return data_paths
+
+
+def tweets():
+    dates = []
+    with open(SPIKE_DATES_PATH, 'r') as file:
+        dates = json.load(file)
+
+    keywords = [
+        # '"patent monitization entity',
+        # '#pme',
+        '"patent troll"',
+        '#patenttroll'
+    ]
+
+    queries = fetch.query_tweets_by_date(api_key, keywords, dates)
+
+    responses = fetch.send_queries('content', 'tweets', queries)
+
+    out_path = 'data/responses/spike_tweets.json'
+    with open(out_path, 'w') as out_file:
+        json.dump(responses, out_file, indent=2, separators=(',', ':'))
+        print 'wrote tweets to %s' % out_path
 
 
 def sentiment():

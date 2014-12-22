@@ -18,7 +18,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -33,7 +33,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1264723200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1264809599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1264723200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1264809599"
     },
     "response":{
       "credits":{
@@ -424,7 +424,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -439,7 +439,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1268092800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1268179199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1268092800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1268179199"
     },
     "response":{
       "credits":{
@@ -1011,7 +1011,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -1026,7 +1026,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1271116800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1271203199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1271116800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1271203199"
     },
     "response":{
       "credits":{
@@ -1609,7 +1609,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -1624,7 +1624,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1272585600&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1272671999"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1272585600&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1272671999"
     },
     "response":{
       "credits":{
@@ -2258,7 +2258,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -2273,7 +2273,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1273795200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1273881599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1273795200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1273881599"
     },
     "response":{
       "credits":{
@@ -2756,7 +2756,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -2771,7 +2771,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1274918400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1275004799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1274918400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1275004799"
     },
     "response":{
       "credits":{
@@ -3233,7 +3233,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -3248,7 +3248,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1282867200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1282953599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1282867200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1282953599"
     },
     "response":{
       "credits":{
@@ -4366,7 +4366,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -4381,7 +4381,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1285804800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1285891199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1285804800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1285891199"
     },
     "response":{
       "credits":{
@@ -4633,7 +4633,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -4648,7 +4648,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1287360000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1287446399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1287360000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1287446399"
     },
     "response":{
       "credits":{
@@ -5572,7 +5572,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -5587,7 +5587,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1299110400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1299196799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1299110400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1299196799"
     },
     "response":{
       "credits":{
@@ -6764,7 +6764,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -6779,7 +6779,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1301875200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1301961599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1301875200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1301961599"
     },
     "response":{
       "credits":{
@@ -7988,7 +7988,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -8003,7 +8003,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1304380800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1304467199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1304380800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1304467199"
     },
     "response":{
       "credits":{
@@ -8442,7 +8442,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -8457,7 +8457,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1305158400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1305244799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1305158400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1305244799"
     },
     "response":{
       "credits":{
@@ -8491,7 +8491,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -8506,7 +8506,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1305504000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1305590399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1305504000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1305590399"
     },
     "response":{
       "credits":{
@@ -9405,7 +9405,7 @@
               "name":"AppAdvice.com",
               "url":"http://twitter.com/appadvice",
               "nick":"appadvice",
-              "followers":118135.0,
+              "followers":118136.0,
               "image_url":"http://pbs.twimg.com/profile_images/900330076/mzl.ljucmzbe.100x100-75_normal.jpg",
               "type":"twitter",
               "influence_level":10.0,
@@ -9416,7 +9416,7 @@
               "description":"\uf8ff The best source for iOS news, reviews, how-tos, and accessories.",
               "url":"http://twitter.com/appadvice",
               "nick":"appadvice",
-              "followers":118135.0,
+              "followers":118136.0,
               "image_url":"http://pbs.twimg.com/profile_images/900330076/mzl.ljucmzbe.100x100-75_normal.jpg",
               "type":"twitter",
               "influence_level":10.0,
@@ -9685,7 +9685,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -9700,7 +9700,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1306022400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1306108799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1306022400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1306108799"
     },
     "response":{
       "credits":{
@@ -9909,7 +9909,7 @@
               "name":"Layton Duncan",
               "url":"http://twitter.com/polarbearfarm",
               "nick":"polarbearfarm",
-              "followers":6321.0,
+              "followers":6322.0,
               "image_url":"http://pbs.twimg.com/profile_images/3780771623/ea2b46f67932b3411ddff0e4bca87c1d_normal.jpeg",
               "type":"twitter",
               "influence_level":9.0,
@@ -9920,7 +9920,7 @@
               "description":"World's very first iPhone development company. Makers of great iOS apps!\r\nCo-Founder @sensemedical\r\nBuilding iOS apps @Xero",
               "url":"http://twitter.com/polarbearfarm",
               "nick":"polarbearfarm",
-              "followers":6321.0,
+              "followers":6322.0,
               "image_url":"http://pbs.twimg.com/profile_images/3780771623/ea2b46f67932b3411ddff0e4bca87c1d_normal.jpeg",
               "type":"twitter",
               "influence_level":9.0,
@@ -10478,7 +10478,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -10493,7 +10493,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1306972800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1307059199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1306972800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1307059199"
     },
     "response":{
       "credits":{
@@ -11836,7 +11836,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -11851,7 +11851,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1314835200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1314921599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1314835200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1314921599"
     },
     "response":{
       "credits":{
@@ -13081,7 +13081,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -13096,7 +13096,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1312848000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1312934399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1312848000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1312934399"
     },
     "response":{
       "credits":{
@@ -14346,7 +14346,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -14361,7 +14361,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1317600000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1317686399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1317600000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1317686399"
     },
     "response":{
       "credits":{
@@ -15692,7 +15692,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -15707,7 +15707,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1323388800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1323475199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1323388800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1323475199"
     },
     "response":{
       "credits":{
@@ -16978,7 +16978,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -16993,7 +16993,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1326326400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1326412799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1326326400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1326412799"
     },
     "response":{
       "credits":{
@@ -18237,7 +18237,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -18252,7 +18252,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1328659200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1328745599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1328659200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1328745599"
     },
     "response":{
       "credits":{
@@ -19580,7 +19580,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -19595,7 +19595,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1330300800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1330387199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1330300800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1330387199"
     },
     "response":{
       "credits":{
@@ -20936,7 +20936,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -20951,7 +20951,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1330560000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1330646399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1330560000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1330646399"
     },
     "response":{
       "credits":{
@@ -22239,7 +22239,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -22254,7 +22254,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1330819200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1330905599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1330819200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1330905599"
     },
     "response":{
       "credits":{
@@ -23508,7 +23508,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -23523,7 +23523,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1331510400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1331596799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1331510400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1331596799"
     },
     "response":{
       "credits":{
@@ -24733,7 +24733,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -24748,7 +24748,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1331596800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1331683199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1331596800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1331683199"
     },
     "response":{
       "credits":{
@@ -25951,7 +25951,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -25966,7 +25966,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1334102400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1334188799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1334102400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1334188799"
     },
     "response":{
       "credits":{
@@ -26815,7 +26815,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -26830,7 +26830,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1334620800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1334707199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1334620800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1334707199"
     },
     "response":{
       "credits":{
@@ -28110,7 +28110,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -28125,7 +28125,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1338768000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1338854399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1338768000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1338854399"
     },
     "response":{
       "credits":{
@@ -29379,7 +29379,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -29394,7 +29394,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1341360000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1341446399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1341360000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1341446399"
     },
     "response":{
       "credits":{
@@ -30623,7 +30623,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -30638,7 +30638,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1342742400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1342828799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1342742400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1342828799"
     },
     "response":{
       "credits":{
@@ -31904,7 +31904,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -31919,7 +31919,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1347926400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1348012799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1347926400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1348012799"
     },
     "response":{
       "credits":{
@@ -33230,7 +33230,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -33245,7 +33245,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1348012800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1348099199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1348012800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1348099199"
     },
     "response":{
       "credits":{
@@ -33697,7 +33697,7 @@
               "name":"Ir. Ciputra",
               "url":"http://twitter.com/ciputraway",
               "nick":"ciputraway",
-              "followers":260370.0,
+              "followers":246446.0,
               "image_url":"http://pbs.twimg.com/profile_images/430170027761745921/3gC3fNlu_normal.jpeg",
               "type":"twitter",
               "influence_level":10.0,
@@ -33708,7 +33708,7 @@
               "description":"I'd really like to share THE SPIRIT OF ENTREPRENEURSHIP. ciputraway(at)gmail(dot)com",
               "url":"http://twitter.com/ciputraway",
               "nick":"ciputraway",
-              "followers":260370.0,
+              "followers":246446.0,
               "image_url":"http://pbs.twimg.com/profile_images/430170027761745921/3gC3fNlu_normal.jpeg",
               "type":"twitter",
               "influence_level":10.0,
@@ -34559,7 +34559,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -34574,7 +34574,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1349136000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1349222399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1349136000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1349222399"
     },
     "response":{
       "credits":{
@@ -35815,7 +35815,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -35830,7 +35830,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1349481600&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1349567999"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1349481600&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1349567999"
     },
     "response":{
       "credits":{
@@ -37077,7 +37077,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -37092,7 +37092,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1351555200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1351641599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1351555200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1351641599"
     },
     "response":{
       "credits":{
@@ -37826,7 +37826,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -37841,7 +37841,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1356048000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1356134399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1356048000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1356134399"
     },
     "response":{
       "credits":{
@@ -39142,7 +39142,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -39157,7 +39157,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1359244800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1359331199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1359244800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1359331199"
     },
     "response":{
       "credits":{
@@ -40140,7 +40140,7 @@
               "name":"Tanya Cordrey",
               "url":"http://twitter.com/tcordrey",
               "nick":"tcordrey",
-              "followers":3172.0,
+              "followers":3174.0,
               "image_url":"http://pbs.twimg.com/profile_images/70506565/tanya_cordrey_normal.jpg",
               "type":"twitter",
               "influence_level":6.0,
@@ -40151,7 +40151,7 @@
               "description":"Chief Digital Officer at Guardian News & Media: Digital thinker & doer with keen interest in current affairs, politics and all things digital",
               "url":"http://twitter.com/tcordrey",
               "nick":"tcordrey",
-              "followers":3172.0,
+              "followers":3174.0,
               "image_url":"http://pbs.twimg.com/profile_images/70506565/tanya_cordrey_normal.jpg",
               "type":"twitter",
               "influence_level":6.0,
@@ -40445,7 +40445,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -40460,7 +40460,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1360022400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1360108799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1360022400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1360108799"
     },
     "response":{
       "credits":{
@@ -41732,7 +41732,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -41747,7 +41747,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1361923200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1362009599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1361923200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1362009599"
     },
     "response":{
       "credits":{
@@ -43007,7 +43007,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -43022,7 +43022,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1362614400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1362700799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1362614400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1362700799"
     },
     "response":{
       "credits":{
@@ -44273,7 +44273,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -44288,7 +44288,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1365033600&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1365119999"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1365033600&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1365119999"
     },
     "response":{
       "credits":{
@@ -45549,7 +45549,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -45564,7 +45564,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1369872000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1369958399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1369872000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1369958399"
     },
     "response":{
       "credits":{
@@ -46888,7 +46888,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -46903,7 +46903,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1370217600&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1370303999"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1370217600&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1370303999"
     },
     "response":{
       "credits":{
@@ -48175,7 +48175,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -48190,7 +48190,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1374451200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1374537599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1374451200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1374537599"
     },
     "response":{
       "credits":{
@@ -49498,7 +49498,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -49513,7 +49513,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1379289600&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1379375999"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1379289600&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1379375999"
     },
     "response":{
       "credits":{
@@ -50799,7 +50799,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -50814,7 +50814,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380067200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380153599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380067200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380153599"
     },
     "response":{
       "credits":{
@@ -52121,7 +52121,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -52136,7 +52136,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380153600&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380239999"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380153600&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380239999"
     },
     "response":{
       "credits":{
@@ -52998,7 +52998,7 @@
               "name":"Dr. Frank Simon \uf8ff ",
               "url":"http://twitter.com/silverstar22b",
               "nick":"silverstar22b",
-              "followers":51619.0,
+              "followers":51620.0,
               "image_url":"http://pbs.twimg.com/profile_images/412188395285123072/5e2XFLhF_normal.jpeg",
               "type":"twitter",
               "influence_level":10.0,
@@ -53009,7 +53009,7 @@
               "description":"Ph.D (Neuroscience), Tech enthusiast,photographer, into Motoracing. I am a certified Competitive Intelligence Professional. Silverstar555 on FB",
               "url":"http://twitter.com/silverstar22b",
               "nick":"silverstar22b",
-              "followers":51619.0,
+              "followers":51620.0,
               "image_url":"http://pbs.twimg.com/profile_images/412188395285123072/5e2XFLhF_normal.jpeg",
               "type":"twitter",
               "influence_level":10.0,
@@ -53443,7 +53443,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -53458,7 +53458,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380240000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380326399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380240000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380326399"
     },
     "response":{
       "credits":{
@@ -54727,7 +54727,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -54742,7 +54742,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380326400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380412799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380326400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380412799"
     },
     "response":{
       "credits":{
@@ -54841,7 +54841,7 @@
               "name":"Engadget",
               "url":"http://twitter.com/engadget",
               "nick":"engadget",
-              "followers":1177839.0,
+              "followers":1143402.0,
               "image_url":"http://pbs.twimg.com/profile_images/528440858517852160/I1FWOb9q_normal.jpeg",
               "type":"twitter",
               "influence_level":10.0,
@@ -54852,7 +54852,7 @@
               "description":"The definitive guide to this connected life.",
               "url":"http://twitter.com/engadget",
               "nick":"engadget",
-              "followers":1177839.0,
+              "followers":1143402.0,
               "image_url":"http://pbs.twimg.com/profile_images/528440858517852160/I1FWOb9q_normal.jpeg",
               "type":"twitter",
               "influence_level":10.0,
@@ -56005,7 +56005,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -56020,7 +56020,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380412800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380499199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380412800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380499199"
     },
     "response":{
       "credits":{
@@ -57309,7 +57309,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -57324,7 +57324,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380499200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380585599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380499200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380585599"
     },
     "response":{
       "credits":{
@@ -58393,7 +58393,7 @@
               "name":"Insurance Journal",
               "url":"http://twitter.com/ijournal",
               "nick":"ijournal",
-              "followers":37893.0,
+              "followers":37892.0,
               "image_url":"http://pbs.twimg.com/profile_images/1261112721/IJ-Twitter_normal.png",
               "type":"twitter",
               "influence_level":8.0,
@@ -58404,7 +58404,7 @@
               "description":"Daily Insurance News for the Property Casualty Industry",
               "url":"http://twitter.com/ijournal",
               "nick":"ijournal",
-              "followers":37893.0,
+              "followers":37892.0,
               "image_url":"http://pbs.twimg.com/profile_images/1261112721/IJ-Twitter_normal.png",
               "type":"twitter",
               "influence_level":8.0,
@@ -58573,7 +58573,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -58588,7 +58588,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380585600&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380671999"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380585600&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380671999"
     },
     "response":{
       "credits":{
@@ -59910,7 +59910,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -59925,7 +59925,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380672000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380758399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1380672000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1380758399"
     },
     "response":{
       "credits":{
@@ -61210,7 +61210,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -61225,7 +61225,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1385337600&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1385423999"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1385337600&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1385423999"
     },
     "response":{
       "credits":{
@@ -61457,7 +61457,7 @@
               "name":"Reg Saddler",
               "url":"http://twitter.com/zaibatsu",
               "nick":"zaibatsu",
-              "followers":506762.0,
+              "followers":506759.0,
               "image_url":"http://pbs.twimg.com/profile_images/1765976458/1111_normal.jpg",
               "type":"twitter",
               "influence_level":10.0,
@@ -61468,7 +61468,7 @@
               "description":"Just a guy who loves Social Media, Tech, Science and Travel. Want to know what our company does: The 1st Rule of Fightclub: you don't talk about Fightclub #TFB",
               "url":"http://twitter.com/zaibatsu",
               "nick":"zaibatsu",
-              "followers":506762.0,
+              "followers":506759.0,
               "image_url":"http://pbs.twimg.com/profile_images/1765976458/1111_normal.jpg",
               "type":"twitter",
               "influence_level":10.0,
@@ -62543,7 +62543,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -62558,7 +62558,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1386115200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1386201599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1386115200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1386201599"
     },
     "response":{
       "credits":{
@@ -63838,7 +63838,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -63853,7 +63853,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1386460800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1386547199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1386460800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1386547199"
     },
     "response":{
       "credits":{
@@ -65109,7 +65109,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -65124,7 +65124,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1389571200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1389657599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1389571200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1389657599"
     },
     "response":{
       "credits":{
@@ -66420,7 +66420,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -66435,7 +66435,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1390867200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1390953599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1390867200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1390953599"
     },
     "response":{
       "credits":{
@@ -67742,7 +67742,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -67757,7 +67757,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1391558400&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1391644799"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1391558400&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1391644799"
     },
     "response":{
       "credits":{
@@ -69098,7 +69098,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -69113,7 +69113,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1393459200&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1393545599"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1393459200&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1393545599"
     },
     "response":{
       "credits":{
@@ -69699,7 +69699,7 @@
               "name":"Rossa McMahon",
               "url":"http://twitter.com/rossamcmahon",
               "nick":"rossamcmahon",
-              "followers":3040.0,
+              "followers":3039.0,
               "image_url":"http://pbs.twimg.com/profile_images/520632446262710272/5gLcR-xU_normal.jpeg",
               "type":"twitter",
               "influence_level":8.0,
@@ -69710,7 +69710,7 @@
               "description":"Solicitor/Notary Public. Lapsed pastafarian. Weakness: baked cheesecake. Favourite punctuation mark: interrobang.",
               "url":"http://twitter.com/rossamcmahon",
               "nick":"rossamcmahon",
-              "followers":3040.0,
+              "followers":3039.0,
               "image_url":"http://pbs.twimg.com/profile_images/520632446262710272/5gLcR-xU_normal.jpeg",
               "type":"twitter",
               "influence_level":8.0,
@@ -70396,7 +70396,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -70411,7 +70411,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1401580800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1401667199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1401580800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1401667199"
     },
     "response":{
       "credits":{
@@ -71721,7 +71721,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -71736,7 +71736,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1406592000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1406678399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1406592000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1406678399"
     },
     "response":{
       "credits":{
@@ -73095,7 +73095,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -73110,7 +73110,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1407196800&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1407283199"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1407196800&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1407283199"
     },
     "response":{
       "credits":{
@@ -74489,7 +74489,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -74504,7 +74504,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1407801600&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1407887999"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1407801600&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1407887999"
     },
     "response":{
       "credits":{
@@ -75605,7 +75605,7 @@
               "name":"Dan Scheinman",
               "url":"http://twitter.com/dscheinm",
               "nick":"dscheinm",
-              "followers":2829.0,
+              "followers":2830.0,
               "image_url":"http://pbs.twimg.com/profile_images/1767610641/Photo_on_1-19-12_at_6.26_PM_normal.jpg",
               "type":"twitter",
               "influence_level":7.0,
@@ -75798,7 +75798,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -75813,7 +75813,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1408320000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1408406399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1408320000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1408406399"
     },
     "response":{
       "credits":{
@@ -77192,7 +77192,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -77207,7 +77207,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1411344000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1411430399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1411344000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1411430399"
     },
     "response":{
       "credits":{
@@ -78524,7 +78524,7 @@
           "relevance"
         ],
         "q":[
-          "\"patent troll\" OR #patenttroll"
+          "\"patent monitization entity\" OR \"patent troll\" OR #patenttroll"
         ],
         "perpage":[
           "10"
@@ -78539,7 +78539,7 @@
           "default"
         ]
       },
-      "uri":"//v2/content/tweets.json?slice=86400&mintime=1415232000&cumulative=0&sort_by=relevance&q=%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1415318399"
+      "uri":"//v2/content/tweets.json?slice=86400&mintime=1415232000&cumulative=0&sort_by=relevance&q=%22patent+monitization+entity%22+OR+%22patent+troll%22+OR+%23patenttroll&apikey=09C43A9B270A470B8EB8F2946A9369F3&limit=10&maxtime=1415318399"
     },
     "response":{
       "credits":{
@@ -78639,7 +78639,7 @@
               "name":"Washington Post",
               "url":"http://twitter.com/washingtonpost",
               "nick":"washingtonpost",
-              "followers":3813723.0,
+              "followers":3813755.0,
               "image_url":"http://pbs.twimg.com/profile_images/378800000252568100/7a366ac8d0f934b5318e721ba049e9b1_normal.png",
               "type":"twitter",
               "influence_level":10.0,
@@ -78650,7 +78650,7 @@
               "description":"Tweets about everything from breaking news to bad restaurants. Sometimes global, sometimes local. Led by @hermanywong and @MiGold.",
               "url":"http://twitter.com/washingtonpost",
               "nick":"washingtonpost",
-              "followers":3813723.0,
+              "followers":3813755.0,
               "image_url":"http://pbs.twimg.com/profile_images/378800000252568100/7a366ac8d0f934b5318e721ba049e9b1_normal.png",
               "type":"twitter",
               "influence_level":10.0,

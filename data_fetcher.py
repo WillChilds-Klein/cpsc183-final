@@ -78,8 +78,7 @@ def tweets():
         dates = json.load(file)
 
     keywords = [
-        # '"patent monitization entity',
-        # '#pme',
+        '"patent monitization entity"',
         '"patent troll"',
         '#patenttroll'
     ]

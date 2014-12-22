@@ -14,7 +14,9 @@ def run():
     # print 'mentions data written to: ' 
     # pprint(mentions_data_paths, indent=2)
 
-    tweets()
+    # tweets()
+
+    sentiment()
 
 
 def mentions():
@@ -94,7 +96,31 @@ def tweets():
 
 
 def sentiment():
-    return
+    years = ['2010','2011','2012', '2013', '2014']
+    
+    keyword_lists = [
+        ['patent troll', '#patenttroll'],
+        ['"patent assertion entity"', '#pae'],
+        ['"patent monitization entity"', '#pme'],
+        ['"nonpracticing entity', 'non-practicing entity', '#npe'],
+    ]
+    conjunctions = ['OR','OR','OR','OR']
+
+    data_paths = []
+    for year in years:
+        mintime = year + '-01-01'
+        maxtime = year + '-12-31'
+        outname = 'sentiment-' + year + fetch.JSON_APPENDAGE
+
+        queries = fetch.build_queries(api_key, keyword_lists, 
+                                conjunctions=conjunctions,
+                                mintime=mintime, maxtime=maxtime, 
+                                is_timestamp=False)
+        responses = fetch.send_queries('metrics', 'sentiment', queries)
+
+        clean_data = clean.clean_responses(responses, convert_timestamps=True)
+        data_path = clean.write_data(clean_data, out_names=[outname])
+        data_paths.append(data_path)
 
 
 def geo():

@@ -37,6 +37,19 @@ From the analysis of patent lawsuits from 2010 to 2012 we discovered that there 
 Patent holding companies increased the most lawsuits of all eight categories described by the authors of the study, from 290 in 2010 to an astonishing 1728 in 2012. This category contains many of the entities described as "patent trolls" and the data show why their notoriety is on the rise. 
 
 <div class='container' style='width: 1200px'>
+    <div id='sentiment-2010'></div>
+    <div id='sentiment-2010_legend'></div>
+    <div id='sentiment-2011'></div>
+    <div id='sentiment-2011_legend'></div>
+    <div id='sentiment-2012'></div>
+    <div id='sentiment-2012_legend'></div>
+    <div id='sentiment-2013'></div>
+    <div id='sentiment-2013_legend'></div>
+    <div id='sentiment-2014'></div>
+    <div id='sentiment-2014_legend'></div>
+</div>
+
+<div class='container' style='width: 1200px'>
     <div id='mentions2-2010'></div>
     <div id='mentions2-2010_legend'></div>
     <div id='mentions2-2011'></div>

@@ -3,6 +3,7 @@
 import pprint 
 import requests
 from datetime import datetime
+import calendar
 import json
 import os.path
 import posixpath
@@ -38,11 +39,20 @@ def read_key(key_dir='.', key_name='topsy.key'):
     return api_key
 
 
-def build_queries(api_key, keyword_lists, conjunctions=[], slice=86400, cumulative=0, 
-                  mintime=DEFAULT_MINTIME, maxtime=DEFAULT_MAXTIME):
+def build_queries(api_key, keyword_lists, conjunctions=[], slice=86400, 
+                  cumulative=0, mintime=DEFAULT_MINTIME, maxtime=DEFAULT_MAXTIME, 
+                  is_timestamp=True, date_format='%Y-%m-%d'):
     if not len(api_key) == 32:
         print 'please specify valid api_key!!'
         return []
+
+    if not is_timestamp:
+        # convert to UNIX timestamp if needed
+        d_mintime = datetime.strptime(mintime, date_format)
+        d_maxtime = datetime.strptime(maxtime, date_format)
+
+        mintime = calendar.timegm(d_mintime.utctimetuple())
+        maxtime = calendar.timegm(d_maxtime.utctimetuple())
 
     for conj in conjunctions:
         if conj not in VALID_CONJUNTIONS:

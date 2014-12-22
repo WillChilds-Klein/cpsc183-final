@@ -62,59 +62,6 @@ def run():
                                   outfilename='mentions_data.json')
 
 
-def clean_mentions_data(filenames, path='./'):
-    clean_filenames = []
-
-    for filename in filenames:
-        filepath = os.path.join(path, filename)
-        try:
-            with open(filepath, "r") as file:
-                file_json = json.load(file)
-        except:
-            print 'whoops! couldn\'t read %s !!' % filepath
-            continue
-    
-        try:
-            clean_data = file_json['response']['results'][1]['data']
-        except:
-            print 'whoops! bad response in file %s !!' % filepath
-            continue
-        
-        # convert from UNIX time to human date
-        for data_point in clean_data:
-            dtime = datetime.fromtimestamp(data_point['timestamp'])
-            data_point['date'] = dtime.strftime('%Y-%m-%d')
-            del data_point['timestamp']
-
-        clean_filepath = filepath.rstrip(JSON_APPENDAGE) + CLEAN_JSON_APPENDAGE
-
-        with open(clean_filepath, 'w') as outfile:
-            json.dump(clean_data, outfile, indent=2, separators=(',', ':'))
-            print 'wrote clean file %s' % clean_filepath
-        clean_filenames.append(os.path.basename(clean_filepath))
-
-    if len(clean_filenames) > 0:
-        print 'data cleaned and written!'
-    return clean_filenames
-
-def merge_files(filenames, path='./', outfilename='merged.json'):
-    merged = []
-    for filename in filenames:
-        filepath = os.path.join(path, filename)
-        try:
-            with open(filepath, "r") as file:
-                file_json = json.load(file)
-        except:
-            print 'whoops! couldn\'t read %s !!' % filepath
-            continue
-
-        merged.append(file_json)
-
-    outfilename = os.path.join(path, outfilename)
-    with open(outfilename, 'w') as outfile:
-        json.dump(merged, outfile, indent=2, separators=(',', ':'))
-        print 'files successfully merged into %s' % outfilename
-
 
 if __name__ == "__main__":
     run()

@@ -25,6 +25,16 @@ $(document).ready(function() {
             data[i] = convert_dates(data[i], 'date');
         }
 
+        var markers = [
+            {
+                'date': new Date('2010-04-13T00:00:00.000Z'),
+                'label': '(1)'
+            },{
+                'date': new Date('2010-08-27T00:00:00.000Z'),
+                'label': '(2)'
+            }
+        ]
+
         //add a wide multi-line chart
         data_graphic({
             title:"Keyword Mentions in 2010",
@@ -43,6 +53,7 @@ $(document).ready(function() {
             show_years: true,
             xax_count: 12,
             y_extended_ticks: true,
+            markers: markers,
             target: '#mentions1-2010',
             x_accessor: 'date',
             y_accessor: 'mentions'
@@ -53,6 +64,16 @@ $(document).ready(function() {
         for(var i=0;i<data.length;i++) {
             data[i] = convert_dates(data[i], 'date');
         }
+
+        var markers = [
+            {
+                'date': new Date('2011-05-12T00:00:00.000Z'),
+                'label': '(3)'
+            },{
+                'date': new Date('2011-10-03T00:00:00.000Z'),
+                'label': '(4)'
+            }
+        ]
 
         //add a wide multi-line chart
         data_graphic({
@@ -72,6 +93,7 @@ $(document).ready(function() {
             show_years: true,
             xax_count: 12,
             y_extended_ticks: true,
+            markers: markers,
             target: '#mentions1-2011',
             x_accessor: 'date',
             y_accessor: 'mentions'
@@ -82,6 +104,19 @@ $(document).ready(function() {
         for(var i=0;i<data.length;i++) {
             data[i] = convert_dates(data[i], 'date');
         }
+
+        var markers = [
+            {
+                'date': new Date('2012-02-08T00:00:00.000Z'),
+                'label': '(5)'
+            },{
+                'date': new Date('2012-10-06T00:00:00.000Z'),
+                'label': '(6)'
+            },{
+                'date': new Date('2012-12-21T00:00:00.000Z'),
+                'label': '(7)'
+            }
+        ]
 
         //add a wide multi-line chart
         data_graphic({
@@ -101,6 +136,7 @@ $(document).ready(function() {
             show_years: true,
             xax_count: 12,
             y_extended_ticks: true,
+            markers: markers,
             target: '#mentions1-2012',
             x_accessor: 'date',
             y_accessor: 'mentions'
@@ -112,13 +148,24 @@ $(document).ready(function() {
             data[i] = convert_dates(data[i], 'date');
         }
 
-        var markers = [{
-            'date': new Date('2013-02-05T00:00:00.000Z'),
-            'label': 'Rackspace sues Parallel Iron'
-        },{
-            'date': new Date('2013-04-04T00:00:00.000Z'),
-            'label': 'EFF anounces opposition to Personal Audio'
-        }]
+        var markers = [
+            {
+                'date': new Date('2013-01-27T00:00:00.000Z'),
+                'label': '(8)'
+            },{
+                'date': new Date('2013-02-05T00:00:00.000Z'),
+                'label': '(9)'
+            },{
+                'date': new Date('2013-04-04T00:00:00.000Z'),
+                'label': '(10)'
+            },{
+                'date': new Date('2013-09-06T00:00:00.000Z'),
+                'label': '(11)'
+            },{
+                'date': new Date('2013-12-05T00:00:00.000Z'),
+                'label': '(12)'
+            }
+        ]
 
         //add a wide multi-line chart
         data_graphic({
@@ -150,10 +197,15 @@ $(document).ready(function() {
             data[i] = convert_dates(data[i], 'date');
         }
 
-        var markers = [{
-            'date': new Date('2014-08-18T00:00:00.000Z'),
-            'label': 'Adam Corolla (podcaster) settles with Personal Audio (PAE)'
-        }]
+        var markers = [
+            {
+                'date': new Date('2014-08-18T00:00:00.000Z'),
+                'label': '(13)'
+            },{
+                'date': new Date('2014-09-22T00:00:00.000Z'),
+                'label': '(14)'
+            }
+        ]
 
         //add a wide multi-line chart
         data_graphic({
@@ -174,6 +226,7 @@ $(document).ready(function() {
             show_years: true,
             xax_count: 12,
             y_extended_ticks: true,
+            markers: markers,
             target: '#mentions1-2014',
             x_accessor: 'date',
             y_accessor: 'mentions'

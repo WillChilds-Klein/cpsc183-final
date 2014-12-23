@@ -154,15 +154,18 @@ The following graphics show a year-by-year breakdown of sentiment for each of 4 
 ---
 <br>
 
-Methodology
+Tools
 -----------
-**Tools**
-- [metricsgraphicsjs](http://metricsgraphicsjs.org/)
-- [strapdownjs](http://strapdownjs.com/)
-- [Topsy API](http://api.topsy.com/doc/resources/)
-- [python](https://www.python.org/) programming language
-- [requests](http://docs.python-requests.org/en/latest/) package for python
-- [pytopsy](https://github.com/WillChilds-Klein/cpsc183-final/tree/master/pytopsy), a custom python package for accessing Topsy's REST API written by [Will Childs-Klein](http://will.childs-kle.in)
+<ul>
+    <li> [metricsgraphicsjs](http://metricsgraphicsjs.org/) </li>
+    <li> [strapdownjs](http://strapdownjs.com/) </li>
+    <li> [Topsy REST API](http://api.topsy.com/doc/resources/) </li>
+    <li> [python](https://www.python.org/) programming language </li>
+    <li> [requests](http://docs.python-requests.org/en/latest/) package for python </li>
+    <li> [pytopsy](https://github.com/WillChilds-Klein/cpsc183-final/tree/master/pytopsy), a custom python package for accessing Topsy's REST API written by [Will Childs-Klein](http://will.childs-kle.in) </li>
+</ul>
+
+We gathered the data for this project using pytopsy, an original package built on top of standard python and Kenneth Reitz's Requests package, to facilitate and automate querying Topsy's REST API (which is in turn built on top of Twitter's Firehose API) as well as cleaning the query results for display. We display our findings using Mozilla's fantastic MetricsGraphicsjs library, which is built on top of d3. This page has been prettified courtesy of strapdownjs, and is written almost entirely in markdown. Links to all of these tools' respective sites are in the above list.
 
 
 All code and data can be found on the project's GitHub [repository](https://github.com/WillChilds-Klein/cpsc183-final).

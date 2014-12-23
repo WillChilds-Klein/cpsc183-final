@@ -42,6 +42,23 @@ We've also included important dates in the patent troll world over the last 5 ye
     <div id='mentions1-2014_legend'></div>
 </div>
 
+|   Number  |   Description + Link                     |
+| --------- | ---------------------------------------- |
+| 1         | ["Nintendo defeats notorious patent troll after two-year legal battle"][1]
+| 2         | ["Microsoft Co-Founder Launches Patent War"][2]
+| 3         | [Lodsys Group Launches blog][3]
+| 4         | ["Patent Troll Says Anyone Using WiFi Infringes; Won't Sue Individuals 'At This Stage'"][4]
+| 5         | ["Patent troll claims ownership of interactive Web—and might win"][5]
+| 6         | ["Apple’s Siri, Google’s Voice Recognition Technology Targeted By Patent Troll"][6]
+| 7         | ["World’s biggest patent troll saves Kodak from bankruptcy"][7]
+| 8         | []
+| 9         |
+| 10        |
+| 11        |
+| 12        |
+| 13        |
+| 14        |
+
 
 ---
 

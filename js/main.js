@@ -194,7 +194,7 @@ $(document).ready(function() {
             x_accessor: 'mentions',
             y_accessor: 'state',
             width: torso.width*3,
-            height: torso.height*4,
+            height: torso.height*3.5,
             right: trunk.right,
             target: '#mentions-by-state',
         })

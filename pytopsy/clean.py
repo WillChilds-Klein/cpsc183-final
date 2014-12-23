@@ -31,6 +31,49 @@ def clean_responses(responses, convert_timestamps=True):
 
     return clean_data
 
+def clean_tweets(responses, include_author=False):
+    clean_data = []
+
+    for response in responses:
+        tweets = response['response']['results']['list']
+        for tweet in tweets:
+            dtime = datetime.fromtimestamp(tweet['firstpost_date'])
+            date = dtime.strftime('%Y-%m-%d')
+
+            tweet_data = {}
+            tweet_data['date'] = date
+            tweet_data['text'] = tweet['tweet']['text']
+            tweet_data['id'] = tweet['tweet']['id']
+
+            if include_author:
+                author = {}
+                try:
+                    author['name'] = tweet['author']['name']
+                    author['username'] = tweet['author']['nick']
+                    author['influence'] = tweet['author']['influence_level']
+                    author['description'] = tweet['author']['description']
+                except:
+                    pass
+                tweet_data['author'] = author
+
+            clean_data.append(tweet_data)
+
+    return clean_data
+
+def clean_geodata(response):
+    clean_data = []
+
+    states = response['response']['results']['list']
+    for state in states:
+        if state['type'] == 'state': #or state['type'] == 'country':
+            state_data = {}
+            state_data['state'] = state['human_name']
+            state_data['mentions'] = state['data'][1]['mentions']
+            clean_data.append(state_data)
+
+    return clean_data
+
+
 def write_data(clean_data, out_names=['merged.json'], out_dir='data/',
                merge=True):
     # if merge=True, outfile will be named by out_names[0]

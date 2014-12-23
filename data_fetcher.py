@@ -16,7 +16,9 @@ def run():
 
     # tweets()
 
-    sentiment()
+    # sentiment()
+
+    geo()
 
 
 def mentions():
@@ -48,28 +50,26 @@ def mentions():
         data_paths.append(data_path)
 
 
-    keyword_lists2 = [
-        ['patent', 'infringe'],
-        ['patent', 'troll']
-    ]
-    conjunctions2 = ['AND','AND']
+    # keyword_lists2 = [
+    #     ['patent', 'infringe'],
+    #     ['patent', 'troll']
+    # ]
+    # conjunctions2 = ['AND','AND']
 
-    for year in years:
-        mintime = year + '-01-01'
-        maxtime = year + '-12-31'
-        outname = 'mentions2-' + year + fetch.JSON_APPENDAGE
+    # for year in years:
+    #     mintime = year + '-01-01'
+    #     maxtime = year + '-12-31'
+    #     outname = 'mentions2-' + year + fetch.JSON_APPENDAGE
 
-        queries = fetch.build_queries(api_key, keyword_lists2, 
-                                conjunctions=conjunctions2,
-                                mintime=mintime, maxtime=maxtime, 
-                                is_timestamp=False)
-        responses = fetch.send_queries('metrics', 'mentions', queries)
+    #     queries = fetch.build_queries(api_key, keyword_lists2, 
+    #                             conjunctions=conjunctions2,
+    #                             mintime=mintime, maxtime=maxtime, 
+    #                             is_timestamp=False)
+    #     responses = fetch.send_queries('metrics', 'mentions', queries)
 
-        clean_data = clean.clean_responses(responses, convert_timestamps=True)
-        data_path = clean.write_data(clean_data, out_names=[outname])
-        data_paths.append(data_path)
-
-    
+    #     clean_data = clean.clean_responses(responses, convert_timestamps=True)
+    #     data_path = clean.write_data(clean_data, out_names=[outname])
+    #     data_paths.append(data_path)
 
     return data_paths
 
@@ -92,6 +92,20 @@ def tweets():
     out_path = 'data/responses/spike_tweets.json'
     with open(out_path, 'w') as out_file:
         json.dump(responses, out_file, indent=2, separators=(',', ':'))
+        print 'wrote tweets to %s' % out_path
+
+    clean_data = clean.clean_tweets(responses)
+
+    out_path = 'data/responses/spike_tweets-CLEAN.json'
+    with open(out_path, 'w') as out_file:
+        json.dump(clean_data, out_file, indent=2, separators=(',', ':'))
+        print 'wrote tweets to %s' % out_path
+
+    tweets_authors = clean.clean_tweets(responses, include_author=True)
+
+    out_path = 'data/responses/spike_tweets_authors-CLEAN.json'
+    with open(out_path, 'w') as out_file:
+        json.dump(tweets_authors, out_file, indent=2, separators=(',', ':'))
         print 'wrote tweets to %s' % out_path
 
 
@@ -124,8 +138,26 @@ def sentiment():
 
 
 def geo():
-    return
+    keyword_lists = [
+        ['patent troll', '#patenttroll', '"patent monitization entity"']
+    ]
+    conjunctions = ['OR']
 
+    mintime = '2010-01-01'
+    maxtime = '2014-12-22'
+    outname = 'mentions-by-state.json'
+    params = {'scope': 225, 'types': 'state'}
+
+    queries = fetch.build_queries(api_key, keyword_lists, 
+                            conjunctions=conjunctions,
+                            mintime=mintime, maxtime=maxtime, 
+                            is_timestamp=False, other_params=params)
+    responses = fetch.send_queries('metrics', 'geo', queries)
+
+    clean_data = clean.clean_geodata(responses[0])
+    data_path = clean.write_data(clean_data, out_names=[outname])
+
+    return data_path
 
 
 if __name__ == "__main__":

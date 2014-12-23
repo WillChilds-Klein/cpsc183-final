@@ -115,6 +115,14 @@ $(document).ready(function() {
             data[i] = convert_dates(data[i], 'date');
         }
 
+        var markers = [{
+            'date': new Date('2013-02-05T00:00:00.000Z'),
+            'label': 'Rackspace sues Parallel Iron'
+        },{
+            'date': new Date('2013-04-04T00:00:00.000Z'),
+            'label': 'EFF anounces opposition to Personal Audio'
+        }]
+
         //add a wide multi-line chart
         data_graphic({
             title:"Twitter Mentions in 2013",
@@ -134,6 +142,7 @@ $(document).ready(function() {
             show_years: true,
             xax_count: 12,
             y_extended_ticks: true,
+            markers: markers,
             target: '#mentions1-2013',
             x_accessor: 'date',
             y_accessor: 'mentions'
@@ -145,13 +154,10 @@ $(document).ready(function() {
             data[i] = convert_dates(data[i], 'date');
         }
 
-        // var markers = [{
-        //     'date': new Date('2014-04-29T00:00:00.000Z'),
-        //     'label': 'Supreme Court decision on Octane Fitness, LLC v. ICON Health & Fitness, Inc.'
-        // },{
-        //     'date': new Date('2014-06-19T00:00:00.000Z'),
-        //     'label': 'Supreme Court decision on Alice Corp. v. CLS Bank International'
-        // }]
+        var markers = [{
+            'date': new Date('2014-08-18T00:00:00.000Z'),
+            'label': 'Adam Corolla (podcaster) settles with Personal Audio (PAE)'
+        }]
 
         //add a wide multi-line chart
         data_graphic({
@@ -166,7 +172,7 @@ $(document).ready(function() {
                 ],
             legend_target: '#mentions1-2014_legend',
             data: data,
-            // markers: markers,
+            markers: markers,
             width: torso.width*3,
             height: torso.height,
             right: trunk.right,
@@ -179,156 +185,22 @@ $(document).ready(function() {
         })
     })
 
-d3.json('data/mentions2-2010.json', function(data) {
-        for(var i=0;i<data.length;i++) {
-            data[i] = convert_dates(data[i], 'date');
-        }
-
-        //add a wide multi-line chart
+    d3.json('data/mentions-by-state.json', function(data) {
         data_graphic({
-            title:"Twitter Mentions in 2010",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
-            area: false,
-            legend: [
-                'patent AND infringe',
-                'patent AND troll'
-            ],
-            legend_target: '#mentions2-2010_legend',
+            title:'Mentions by State',
+            description:'patent troll OR #patenttroll OR \"patent monitization entity\"',
             data: data,
+            chart_type: 'bar',
+            x_accessor: 'mentions',
+            y_accessor: 'state',
             width: torso.width*3,
-            height: torso.height,
+            height: torso.height*4,
             right: trunk.right,
-            show_years: true,
-            xax_count: 12,
-            y_extended_ticks: true,
-            target: '#mentions2-2010',
-            x_accessor: 'date',
-            y_accessor: 'mentions'
+            target: '#mentions-by-state',
         })
     })
 
-    d3.json('data/mentions2-2011.json', function(data) {
-        for(var i=0;i<data.length;i++) {
-            data[i] = convert_dates(data[i], 'date');
-        }
-
-        //add a wide multi-line chart
-        data_graphic({
-            title:"Twitter Mentions in 2011",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
-            area: false,
-            legend: [
-                'patent AND infringe',
-                'patent AND troll'
-            ],
-            legend_target: '#mentions2-2011_legend',
-            data: data,
-            width: torso.width*3,
-            height: torso.height,
-            right: trunk.right,
-            show_years: true,
-            xax_count: 12,
-            y_extended_ticks: true,
-            target: '#mentions2-2011',
-            x_accessor: 'date',
-            y_accessor: 'mentions'
-        })
-    })
-
-    d3.json('data/mentions2-2012.json', function(data) {
-        for(var i=0;i<data.length;i++) {
-            data[i] = convert_dates(data[i], 'date');
-        }
-
-        //add a wide multi-line chart
-        data_graphic({
-            title:"Twitter Mentions in 2012",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
-            area: false,
-            legend: [
-                'patent AND infringe',
-                'patent AND troll'
-            ],
-            legend_target: '#mentions2-2012_legend',
-            data: data,
-            width: torso.width*3,
-            height: torso.height,
-            right: trunk.right,
-            show_years: true,
-            xax_count: 12,
-            y_extended_ticks: true,
-            target: '#mentions2-2012',
-            x_accessor: 'date',
-            y_accessor: 'mentions'
-        })
-    })
-
-    d3.json('data/mentions2-2013.json', function(data) {
-        for(var i=0;i<data.length;i++) {
-            data[i] = convert_dates(data[i], 'date');
-        }
-
-        //add a wide multi-line chart
-        data_graphic({
-            title:"Twitter Mentions in 2013",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
-            area: false,
-            legend: [
-                'patent AND infringe',
-                'patent AND troll'
-            ],
-            legend_target: '#mentions2-2013_legend',
-            data: data,
-            width: torso.width*3,
-            height: torso.height,
-            right: trunk.right,
-            show_years: true,
-            xax_count: 12,
-            y_extended_ticks: true,
-            target: '#mentions2-2013',
-            x_accessor: 'date',
-            y_accessor: 'mentions'
-        })
-    })
-
-    d3.json('data/mentions2-2014.json', function(data) {
-        for(var i=0;i<data.length;i++) {
-            data[i] = convert_dates(data[i], 'date');
-        }
-
-        // var markers = [{
-        //     'date': new Date('2014-04-29T00:00:00.000Z'),
-        //     'label': 'Supreme Court decision on Octane Fitness, LLC v. ICON Health & Fitness, Inc.'
-        // },{
-        //     'date': new Date('2014-06-19T00:00:00.000Z'),
-        //     'label': 'Supreme Court decision on Alice Corp. v. CLS Bank International'
-        // }]
-
-        //add a wide multi-line chart
-        data_graphic({
-            title:"Twitter Mentions in 2014",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
-            area: false,
-            legend: [
-                'patent AND infringe',
-                'patent AND troll'
-            ],
-            legend_target: '#mentions2-2014_legend',
-            data: data,
-            // markers: markers,
-            width: torso.width*3,
-            height: torso.height,
-            right: trunk.right,
-            show_years: true,
-            xax_count: 12,
-            y_extended_ticks: true,
-            target: '#mentions2-2014',
-            x_accessor: 'date',
-            y_accessor: 'mentions'
-        })
-    })
-
-d3.json('data/sentiment-2010.json', function(data) {
+    d3.json('data/sentiment-2010.json', function(data) {
         for(var i=0;i<data.length;i++) {
             data[i] = convert_dates(data[i], 'date');
         }
@@ -478,5 +350,154 @@ d3.json('data/sentiment-2010.json', function(data) {
             y_accessor: 'sentiment_score'
         })
     })
+
+// d3.json('data/mentions2-2010.json', function(data) {
+//         for(var i=0;i<data.length;i++) {
+//             data[i] = convert_dates(data[i], 'date');
+//         }
+
+//         //add a wide multi-line chart
+//         data_graphic({
+//             title:"Twitter Mentions in 2010",
+//             description: "This line chart contains multiple lines and has extended ticks enabled.",
+//             area: false,
+//             legend: [
+//                 'patent AND infringe',
+//                 'patent AND troll'
+//             ],
+//             legend_target: '#mentions2-2010_legend',
+//             data: data,
+//             width: torso.width*3,
+//             height: torso.height,
+//             right: trunk.right,
+//             show_years: true,
+//             xax_count: 12,
+//             y_extended_ticks: true,
+//             target: '#mentions2-2010',
+//             x_accessor: 'date',
+//             y_accessor: 'mentions'
+//         })
+//     })
+
+//     d3.json('data/mentions2-2011.json', function(data) {
+//         for(var i=0;i<data.length;i++) {
+//             data[i] = convert_dates(data[i], 'date');
+//         }
+
+//         //add a wide multi-line chart
+//         data_graphic({
+//             title:"Twitter Mentions in 2011",
+//             description: "This line chart contains multiple lines and has extended ticks enabled.",
+//             area: false,
+//             legend: [
+//                 'patent AND infringe',
+//                 'patent AND troll'
+//             ],
+//             legend_target: '#mentions2-2011_legend',
+//             data: data,
+//             width: torso.width*3,
+//             height: torso.height,
+//             right: trunk.right,
+//             show_years: true,
+//             xax_count: 12,
+//             y_extended_ticks: true,
+//             target: '#mentions2-2011',
+//             x_accessor: 'date',
+//             y_accessor: 'mentions'
+//         })
+//     })
+
+//     d3.json('data/mentions2-2012.json', function(data) {
+//         for(var i=0;i<data.length;i++) {
+//             data[i] = convert_dates(data[i], 'date');
+//         }
+
+//         //add a wide multi-line chart
+//         data_graphic({
+//             title:"Twitter Mentions in 2012",
+//             description: "This line chart contains multiple lines and has extended ticks enabled.",
+//             area: false,
+//             legend: [
+//                 'patent AND infringe',
+//                 'patent AND troll'
+//             ],
+//             legend_target: '#mentions2-2012_legend',
+//             data: data,
+//             width: torso.width*3,
+//             height: torso.height,
+//             right: trunk.right,
+//             show_years: true,
+//             xax_count: 12,
+//             y_extended_ticks: true,
+//             target: '#mentions2-2012',
+//             x_accessor: 'date',
+//             y_accessor: 'mentions'
+//         })
+//     })
+
+//     d3.json('data/mentions2-2013.json', function(data) {
+//         for(var i=0;i<data.length;i++) {
+//             data[i] = convert_dates(data[i], 'date');
+//         }
+
+//         //add a wide multi-line chart
+//         data_graphic({
+//             title:"Twitter Mentions in 2013",
+//             description: "This line chart contains multiple lines and has extended ticks enabled.",
+//             area: false,
+//             legend: [
+//                 'patent AND infringe',
+//                 'patent AND troll'
+//             ],
+//             legend_target: '#mentions2-2013_legend',
+//             data: data,
+//             width: torso.width*3,
+//             height: torso.height,
+//             right: trunk.right,
+//             show_years: true,
+//             xax_count: 12,
+//             y_extended_ticks: true,
+//             target: '#mentions2-2013',
+//             x_accessor: 'date',
+//             y_accessor: 'mentions'
+//         })
+//     })
+
+//     d3.json('data/mentions2-2014.json', function(data) {
+//         for(var i=0;i<data.length;i++) {
+//             data[i] = convert_dates(data[i], 'date');
+//         }
+
+//         // var markers = [{
+//         //     'date': new Date('2014-04-29T00:00:00.000Z'),
+//         //     'label': 'Supreme Court decision on Octane Fitness, LLC v. ICON Health & Fitness, Inc.'
+//         // },{
+//         //     'date': new Date('2014-06-19T00:00:00.000Z'),
+//         //     'label': 'Supreme Court decision on Alice Corp. v. CLS Bank International'
+//         // }]
+
+//         //add a wide multi-line chart
+//         data_graphic({
+//             title:"Twitter Mentions in 2014",
+//             description: "This line chart contains multiple lines and has extended ticks enabled.",
+//             area: false,
+//             legend: [
+//                 'patent AND infringe',
+//                 'patent AND troll'
+//             ],
+//             legend_target: '#mentions2-2014_legend',
+//             data: data,
+//             // markers: markers,
+//             width: torso.width*3,
+//             height: torso.height,
+//             right: trunk.right,
+//             show_years: true,
+//             xax_count: 12,
+//             y_extended_ticks: true,
+//             target: '#mentions2-2014',
+//             x_accessor: 'date',
+//             y_accessor: 'mentions'
+//         })
+//     })
 
 })

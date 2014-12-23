@@ -1422,7 +1422,7 @@
     },
     {
       "date":"2014-12-21",
-      "sentiment_score":58.0
+      "sentiment_score":56.0
     },
     {
       "date":"2014-12-22",
@@ -2712,7 +2712,7 @@
     },
     {
       "date":"2014-11-09",
-      "sentiment_score":55.0
+      "sentiment_score":54.0
     },
     {
       "date":"2014-11-10",
@@ -2880,7 +2880,7 @@
     },
     {
       "date":"2014-12-21",
-      "sentiment_score":50
+      "sentiment_score":45.0
     },
     {
       "date":"2014-12-22",

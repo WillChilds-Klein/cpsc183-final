@@ -43,8 +43,8 @@ def build_queries(api_key, keyword_lists, conjunctions=[], slice=86400,
         print 'please specify valid api_key!!'
         return []
 
+    # convert to UNIX timestamp if needed
     if not is_timestamp:
-        # convert to UNIX timestamp if needed
         d_mintime = datetime.strptime(mintime, date_format)
         d_maxtime = datetime.strptime(maxtime, date_format)
 

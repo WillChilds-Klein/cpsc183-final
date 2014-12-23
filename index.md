@@ -10,6 +10,8 @@ title: A Data-Driven Analysis of Patent Trolls
 <script src='js/metricsgraphics.min.js'></script>
 <script src='js/main.js'></script>
 
+
+<xmp theme="united" style="display:none;">
 Overview
 -------
 Lorem ipsum dolor sit amet.
@@ -33,10 +35,13 @@ The Alice Corp case was highly anticipated by major players in the technology an
     <div id='mentions1-2014_legend'></div>
 </div>
 
+
 Court jurisdiction and patent lawsuits
 ======================================
 From the analysis of patent lawsuits from 2010 to 2012 we discovered that there are about 10 primary entities that bring the majority of lawsuits, and these are heard, for the most part, in three court districts. Texas is the leading district in both years, with Delaware and California close behind. These three combine for 50% of all lawsuits in 2010 and then increased to 71% in 2012. The top 10 districts all saw increase in the overall number of lawsuits from 1483 in 2010, to 3787 in 2012. This is a dramatic increase in number that some researchers have argued is the result of new legislation that prohibits multiple defendents per lawsuit, meaning an individual suit must be filed for each person or entity implicated in the lawsuit.
 Patent holding companies increased the most lawsuits of all eight categories described by the authors of the study, from 290 in 2010 to an astonishing 1728 in 2012. This category contains many of the entities described as "patent trolls" and the data show why their notoriety is on the rise. 
+
+
 
 <div class='container' style='width: 1200px'>
     <div id='mentions-by-state'></div>
@@ -54,6 +59,9 @@ Patent holding companies increased the most lawsuits of all eight categories des
     <div id='sentiment-2014'></div>
     <div id='sentiment-2014_legend'></div>
 </div>
+
+</xmp>
+<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
 
 <!-- <div class='container' style='width: 1200px'>
     <div id='mentions2-2010'></div>

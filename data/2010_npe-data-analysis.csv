@@ -1,0 +1,21 @@
+Row Labels,E.D. Tex.  ,D. Del.    ,C.D. Cal.  ,N.D. Cal.  ,N.D. Ill.  ,D.N.J.     ,S.D.N.Y.   ,D. Mass.   ,M.D. Fla.  ,D. Minn.   ,Grand Total
+6. Operating company                        ,94,190,130,103,111,125,71,55,44,52,975
+5. Patent holding company                   ,120,40,30,23,35,9,14,3,15,1,290
+2. Individual/family trust                  ,21,2,21,10,4,4,5,7,4,3,81
+3. Large aggregator                         ,20,7,1,5,3,1,2,,,,39
+4. Failed operating company/failed start-up ,13,2,1,9,7,,1,,,,33
+8. Technology development company           ,5,5,3,10,2,1,2,1,,,29
+7. IP Holding company of operating company  ,4,3,3,7,,1,,,,4,22
+1. University/College                       ,4,2,1,2,1,1,,2,,,13
+Grand Total,282,251,190,169,163,142,95,68,63,60,1483
+,,,,,,,,,,,
+Patentee Category,E.D. Tex.  ,D. Del.    ,C.D. Cal.  ,N.D. Cal.  ,N.D. Ill.  ,D.N.J.     ,S.D.N.Y.   ,D. Mass.   ,M.D. Fla.  ,D. Minn.   ,
+6. Operating company                        ,10%,19%,13%,11%,11%,13%,7%,6%,5%,5%,
+5. Patent holding company                   ,41%,14%,10%,8%,12%,3%,5%,1%,5%,0%,
+2. Individual/family trust                  ,26%,2%,26%,12%,5%,5%,6%,9%,5%,4%,
+3. Large aggregator                         ,51%,18%,3%,13%,8%,3%,5%,0%,0%,0%,
+4. Failed operating company/failed start-up ,39%,6%,3%,27%,21%,0%,3%,0%,0%,0%,
+8. Technology development company           ,17%,17%,10%,34%,7%,3%,7%,3%,0%,0%,
+7. IP Holding company of operating company  ,18%,14%,14%,32%,0%,5%,0%,0%,0%,18%,
+1. University/College                       ,31%,15%,8%,15%,8%,8%,0%,15%,0%,0%,
+Grand Total,19%,17%,13%,11%,11%,10%,6%,5%,4%,4%,

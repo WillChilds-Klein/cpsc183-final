@@ -27,14 +27,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Mentions in 2010",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Mentions in 2010",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#mentions1-2010_legend',
             data: data,
@@ -57,14 +56,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Mentions in 2011",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Mentions in 2011",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#mentions1-2011_legend',
             data: data,
@@ -87,14 +85,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Mentions in 2012",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Mentions in 2012",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#mentions1-2012_legend',
             data: data,
@@ -125,14 +122,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Mentions in 2013",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Mentions in 2013",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#mentions1-2013_legend',
             data: data,
@@ -161,14 +157,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Mentions in 2014",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Mentions in 2014",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#mentions1-2014_legend',
             data: data,
@@ -187,8 +182,8 @@ $(document).ready(function() {
 
     d3.json('data/mentions-by-state.json', function(data) {
         data_graphic({
-            title:'Mentions by State',
-            description:'patent troll OR #patenttroll OR \"patent monitization entity\"',
+            title:'Keyword Mentions by State',
+            description:'Keyword(s): "patent troll" OR "#patenttroll" OR \"patent monitization entity\"',
             data: data,
             chart_type: 'bar',
             x_accessor: 'mentions',
@@ -207,14 +202,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Sentiment in 2010",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Sentiment in 2010",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#sentiment-2010_legend',
             data: data,
@@ -237,14 +231,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Sentiment in 2011",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Sentiment in 2011",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#sentiment-2011_legend',
             data: data,
@@ -267,14 +260,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Sentiment in 2012",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Sentiment in 2012",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#sentiment-2012_legend',
             data: data,
@@ -297,14 +289,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Sentiment in 2013",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Sentiment in 2013",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#sentiment-2013_legend',
             data: data,
@@ -327,14 +318,13 @@ $(document).ready(function() {
 
         //add a wide multi-line chart
         data_graphic({
-            title:"Twitter Sentiment in 2014",
-            description: "This line chart contains multiple lines and has extended ticks enabled.",
+            title:"Keyword Sentiment in 2014",
             area: false,
             legend: [
-                '"patent troll" OR #patenttroll',
-                '"patent assertion entity" OR #pae',
-                '"patent monitization entity" OR #pme',
-                '"nonpracticing entity" OR "non-practicing entity" OR #npe'
+                '"patent troll" OR "#patenttroll"',
+                '"patent assertion entity" OR "#pae"',
+                '"patent monitization entity" OR "#pme"',
+                '"nonpracticing entity" OR "non-practicing entity" OR "#npe"'
                 ],
             legend_target: '#sentiment-2014_legend',
             data: data,
@@ -350,154 +340,5 @@ $(document).ready(function() {
             y_accessor: 'sentiment_score'
         })
     })
-
-// d3.json('data/mentions2-2010.json', function(data) {
-//         for(var i=0;i<data.length;i++) {
-//             data[i] = convert_dates(data[i], 'date');
-//         }
-
-//         //add a wide multi-line chart
-//         data_graphic({
-//             title:"Twitter Mentions in 2010",
-//             description: "This line chart contains multiple lines and has extended ticks enabled.",
-//             area: false,
-//             legend: [
-//                 'patent AND infringe',
-//                 'patent AND troll'
-//             ],
-//             legend_target: '#mentions2-2010_legend',
-//             data: data,
-//             width: torso.width*3,
-//             height: torso.height,
-//             right: trunk.right,
-//             show_years: true,
-//             xax_count: 12,
-//             y_extended_ticks: true,
-//             target: '#mentions2-2010',
-//             x_accessor: 'date',
-//             y_accessor: 'mentions'
-//         })
-//     })
-
-//     d3.json('data/mentions2-2011.json', function(data) {
-//         for(var i=0;i<data.length;i++) {
-//             data[i] = convert_dates(data[i], 'date');
-//         }
-
-//         //add a wide multi-line chart
-//         data_graphic({
-//             title:"Twitter Mentions in 2011",
-//             description: "This line chart contains multiple lines and has extended ticks enabled.",
-//             area: false,
-//             legend: [
-//                 'patent AND infringe',
-//                 'patent AND troll'
-//             ],
-//             legend_target: '#mentions2-2011_legend',
-//             data: data,
-//             width: torso.width*3,
-//             height: torso.height,
-//             right: trunk.right,
-//             show_years: true,
-//             xax_count: 12,
-//             y_extended_ticks: true,
-//             target: '#mentions2-2011',
-//             x_accessor: 'date',
-//             y_accessor: 'mentions'
-//         })
-//     })
-
-//     d3.json('data/mentions2-2012.json', function(data) {
-//         for(var i=0;i<data.length;i++) {
-//             data[i] = convert_dates(data[i], 'date');
-//         }
-
-//         //add a wide multi-line chart
-//         data_graphic({
-//             title:"Twitter Mentions in 2012",
-//             description: "This line chart contains multiple lines and has extended ticks enabled.",
-//             area: false,
-//             legend: [
-//                 'patent AND infringe',
-//                 'patent AND troll'
-//             ],
-//             legend_target: '#mentions2-2012_legend',
-//             data: data,
-//             width: torso.width*3,
-//             height: torso.height,
-//             right: trunk.right,
-//             show_years: true,
-//             xax_count: 12,
-//             y_extended_ticks: true,
-//             target: '#mentions2-2012',
-//             x_accessor: 'date',
-//             y_accessor: 'mentions'
-//         })
-//     })
-
-//     d3.json('data/mentions2-2013.json', function(data) {
-//         for(var i=0;i<data.length;i++) {
-//             data[i] = convert_dates(data[i], 'date');
-//         }
-
-//         //add a wide multi-line chart
-//         data_graphic({
-//             title:"Twitter Mentions in 2013",
-//             description: "This line chart contains multiple lines and has extended ticks enabled.",
-//             area: false,
-//             legend: [
-//                 'patent AND infringe',
-//                 'patent AND troll'
-//             ],
-//             legend_target: '#mentions2-2013_legend',
-//             data: data,
-//             width: torso.width*3,
-//             height: torso.height,
-//             right: trunk.right,
-//             show_years: true,
-//             xax_count: 12,
-//             y_extended_ticks: true,
-//             target: '#mentions2-2013',
-//             x_accessor: 'date',
-//             y_accessor: 'mentions'
-//         })
-//     })
-
-//     d3.json('data/mentions2-2014.json', function(data) {
-//         for(var i=0;i<data.length;i++) {
-//             data[i] = convert_dates(data[i], 'date');
-//         }
-
-//         // var markers = [{
-//         //     'date': new Date('2014-04-29T00:00:00.000Z'),
-//         //     'label': 'Supreme Court decision on Octane Fitness, LLC v. ICON Health & Fitness, Inc.'
-//         // },{
-//         //     'date': new Date('2014-06-19T00:00:00.000Z'),
-//         //     'label': 'Supreme Court decision on Alice Corp. v. CLS Bank International'
-//         // }]
-
-//         //add a wide multi-line chart
-//         data_graphic({
-//             title:"Twitter Mentions in 2014",
-//             description: "This line chart contains multiple lines and has extended ticks enabled.",
-//             area: false,
-//             legend: [
-//                 'patent AND infringe',
-//                 'patent AND troll'
-//             ],
-//             legend_target: '#mentions2-2014_legend',
-//             data: data,
-//             // markers: markers,
-//             width: torso.width*3,
-//             height: torso.height,
-//             right: trunk.right,
-//             show_years: true,
-//             xax_count: 12,
-//             y_extended_ticks: true,
-//             target: '#mentions2-2014',
-//             x_accessor: 'date',
-//             y_accessor: 'mentions'
-//         })
-//     })
 
 })

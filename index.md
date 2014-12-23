@@ -17,17 +17,18 @@ Patent Trolls in the Tweetosphere
 <br>
 <br>
 
-Overview
---------
-Lorem ipsum dolor sit amet.
+Twitter Keyword Mentions 
+------------------------
+The figures below show a year-by-year breakdown of twitter mentions of particular keywords, as articulated by each graphic's respective legend. The sample size of each graphic is the entirety of the Twitter corpus for each graphic's respective year.
 
-<br>
-<br>
 
-Twitter Mentions 
-----------------
 From the figure we see gradual inreases in the mentions of terms relating to patent trolls or patent assertion entities over time, which may correspond to the increasing popularity and user base of Twitter. However, we see significant spikes in mentions for the term "pae", or patent assertion entity, which occurs around the end of the first quarter of 2013. The trend dies down to a regular level by the end of the year but spikes again to the highest point in mid 2014. This correlates almost exactly with the Alice Corp vs CLS Bank Supreme Court case which many of the major technology companies were eager and actively urging to have heard by the Supreme Court. The case was argued in March of 2014 and decided in June. 
+
+
 The Alice Corp case was highly anticipated by major players in the technology and software industry, as well as lawyers involved in patent litigation, and preliminary studies have shown a decrease in patent lawsuits since the ruling. It may be too early to tell if this case was the main cause of the decline but the ruling was significant enough to believe that it may be shifting the tactics of many "patent trolls" as more dubious software patents are likely to be covering unpatentable ideas and processes. This, along with increased publicity as shown by the Twitter mention proxy we present in the figures, will change the rate at which companies settle lawsuits or choose to fight them in court. 
+
+
+We've also included important dates in the patent troll world over the last 5 years. Each landmark is denoted by a vertical line in the graph with a number associated with that line. The numbers correspond to the table at the end of this section.
 
 
 <div class='container' style='width: 1200px'>
@@ -49,7 +50,12 @@ The Alice Corp case was highly anticipated by major players in the technology an
 Court Jurisdiction and Patent Lawsuits
 --------------------------------------
 From the analysis of patent lawsuits from 2010 to 2012 we discovered that there are about 10 primary entities that bring the majority of lawsuits, and these are heard, for the most part, in three court districts. Texas is the leading district in both years, with Delaware and California close behind. These three combine for 50% of all lawsuits in 2010 and then increased to 71% in 2012. The top 10 districts all saw increase in the overall number of lawsuits from 1483 in 2010, to 3787 in 2012. This is a dramatic increase in number that some researchers have argued is the result of new legislation that prohibits multiple defendents per lawsuit, meaning an individual suit must be filed for each person or entity implicated in the lawsuit.
+
+
 Patent holding companies increased the most lawsuits of all eight categories described by the authors of the study, from 290 in 2010 to an astonishing 1728 in 2012. This category contains many of the entities described as "patent trolls" and the data show why their notoriety is on the rise. 
+
+
+The data used for this section was gathered and made public as part of an academic study of non-practicing entities conducted by Christopher A. Cotropia, Jay P. Kesan, and David L. Schwartz. The website for their project can be found [here](http://npedata.com/), and the .csv files of their findings which we used can be found [here]()
 
 
 <br>
@@ -114,7 +120,7 @@ Patent holding companies increased the most lawsuits of all eight categories des
 
 Twitter Keyword Mentions by State (2010 - 2014)
 -----------------------------------------------
-
+This is a breakdown of total keyword mentions ("patent troll" OR "#patenttroll" OR "patent monitization entity", all case-insensitive) over the last 5 years. Again, this data is from the Twitter Firehose API, so it is representative of ALL tweets between 2010 and the present (12/21/14).
 
 
 <div class='container' style='width: 1200px'>
@@ -126,7 +132,7 @@ Twitter Keyword Mentions by State (2010 - 2014)
 
 Twitter Keyword Sentiment by Year (2010 - 2014)
 -----------------------------------------------
-
+The following graphics show a year-by-year breakdown of sentiment for each of 4 keyword sets, as articulated by the graphics' respective legends. Topsy (the API we used to gather the data) calculates sentiment as a normalized score on the interval [0,100], with 0 being least favorable and 100 being most favorable. The score is calculated based on incidences of connotation-bearing words within the tweets ("awesome" = favorable, "annoying" = unfavorable, etc.). The same set of landmark events in the patent troll timeline which were used in the "mentions" section have been added to this set of graphics as well for reference and orientation.
 
 
 <div class='container' style='width: 1200px'>
@@ -147,8 +153,16 @@ Twitter Keyword Sentiment by Year (2010 - 2014)
 
 Methodology
 -----------
+**Tools**
+    * Topsy API
+    * [python](https://www.python.org/) programming language
+    * [requests](http://docs.python-requests.org/en/latest/) module for python
+    * [metricsgraphicsjs](http://metricsgraphicsjs.org/)
+    * [strapdownjs](http://strapdownjs.com/)
+    * [pytopsy](https://github.com/WillChilds-Klein/cpsc183-final/tree/master/pytopsy), a custom python module for accessing Topsy's REST API
 
 
+All code and data can be found on the projects GitHub repository, [here](https://github.com/WillChilds-Klein/cpsc183-final).
 
 </xmp>
 

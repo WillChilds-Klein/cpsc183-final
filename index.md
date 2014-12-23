@@ -45,6 +45,7 @@ We've also included important dates in the patent troll world over the last 5 ye
 </div>
 
 <br>
+---
 <br>
 
 Court Jurisdiction and Patent Lawsuits
@@ -116,6 +117,7 @@ The data used for this section was gathered and made public as part of an academ
 |**Grand Total**                             |33%        |26%        |12%        |7%         |6%         |4%         |4%         |3%         |3%         |2%         |
 
 <br>
+---
 <br>
 
 Twitter Keyword Mentions by State (2010 - 2014)
@@ -149,20 +151,21 @@ The following graphics show a year-by-year breakdown of sentiment for each of 4 
 </div>
 
 <br>
+---
 <br>
 
 Methodology
 -----------
 **Tools**
-    * Topsy API
-    * [python](https://www.python.org/) programming language
-    * [requests](http://docs.python-requests.org/en/latest/) module for python
-    * [metricsgraphicsjs](http://metricsgraphicsjs.org/)
-    * [strapdownjs](http://strapdownjs.com/)
-    * [pytopsy](https://github.com/WillChilds-Klein/cpsc183-final/tree/master/pytopsy), a custom python module for accessing Topsy's REST API
+- [metricsgraphicsjs](http://metricsgraphicsjs.org/)
+- [strapdownjs](http://strapdownjs.com/)
+- [Topsy API](http://api.topsy.com/doc/resources/)
+- [python](https://www.python.org/) programming language
+- [requests](http://docs.python-requests.org/en/latest/) package for python
+- [pytopsy](https://github.com/WillChilds-Klein/cpsc183-final/tree/master/pytopsy), a custom python package for accessing Topsy's REST API written by [Will Childs-Klein](http://will.childs-kle.in)
 
 
-All code and data can be found on the projects GitHub repository, [here](https://github.com/WillChilds-Klein/cpsc183-final).
+All code and data can be found on the project's GitHub [repository](https://github.com/WillChilds-Klein/cpsc183-final).
 
 </xmp>
 

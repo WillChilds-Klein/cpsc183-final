@@ -14,8 +14,6 @@ title: Patent Trolls in the Tweetosphere
 Patent Trolls in the Tweetosphere
 =================================
 
-<br>
-<br>
 
 Twitter Keyword Mentions 
 ------------------------
@@ -44,9 +42,9 @@ We've also included important dates in the patent troll world over the last 5 ye
     <div id='mentions1-2014_legend'></div>
 </div>
 
-<br>
+
 ---
-<br>
+
 
 Court Jurisdiction and Patent Lawsuits
 --------------------------------------
@@ -56,10 +54,10 @@ From the analysis of patent lawsuits from 2010 to 2012 we discovered that there 
 Patent holding companies increased the most lawsuits of all eight categories described by the authors of the study, from 290 in 2010 to an astonishing 1728 in 2012. This category contains many of the entities described as "patent trolls" and the data show why their notoriety is on the rise. 
 
 
-The data used for this section was gathered and made public as part of an academic study of non-practicing entities conducted by Christopher A. Cotropia, Jay P. Kesan, and David L. Schwartz. The website for their project can be found [here](http://npedata.com/), and the .csv files of their findings which we used can be found [here]()
+The data used for this section was gathered and made public as part of an academic study of non-practicing entities conducted by Christopher A. Cotropia, Jay P. Kesan, and David L. Schwartz. The website for their project can be found [here](http://npedata.com/), and the .csv files of their findings which we used can be found [here](https://github.com/WillChilds-Klein/cpsc183-final/tree/master/data/npe-data-project)
 
 
-<br>
+
 2010
 ----
 | Patentee Category                          |E.D. Tex.  |D. Del.    |C.D. Cal.  |N.D. Cal.  |N.D. Ill.  |D.N.J.     |S.D.N.Y.   |D. Mass.   |M.D. Fla.  |D. Minn.   |Grand Total   |
@@ -122,15 +120,16 @@ The data used for this section was gathered and made public as part of an academ
 
 Twitter Keyword Mentions by State (2010 - 2014)
 -----------------------------------------------
-This is a breakdown of total keyword mentions ("patent troll" OR "#patenttroll" OR "patent monitization entity", all case-insensitive) over the last 5 years. Again, this data is from the Twitter Firehose API, so it is representative of ALL tweets between 2010 and the present (12/21/14).
+This is a breakdown of total keyword mentions ("patent troll" OR "#patenttroll" OR "patent monitization entity", all case-insensitive) over the last 5 years. Again, this data is from the Twitter Firehose API, so it is representative of ALL tweets between 2010 and the time of this post's writing (12/21/14).
 
 
 <div class='container' style='width: 1200px'>
     <div id='mentions-by-state'></div>
 </div>
 
-<br>
-<br>
+
+---
+
 
 Twitter Keyword Sentiment by Year (2010 - 2014)
 -----------------------------------------------
@@ -150,22 +149,13 @@ The following graphics show a year-by-year breakdown of sentiment for each of 4 
     <div id='sentiment-2014_legend'></div>
 </div>
 
-<br>
+
 ---
-<br>
+
 
 Tools
------------
-<ul>
-    <li> [metricsgraphicsjs](http://metricsgraphicsjs.org/) </li>
-    <li> [strapdownjs](http://strapdownjs.com/) </li>
-    <li> [Topsy REST API](http://api.topsy.com/doc/resources/) </li>
-    <li> [python](https://www.python.org/) programming language </li>
-    <li> [requests](http://docs.python-requests.org/en/latest/) package for python </li>
-    <li> [pytopsy](https://github.com/WillChilds-Klein/cpsc183-final/tree/master/pytopsy), a custom python package for accessing Topsy's REST API written by [Will Childs-Klein](http://will.childs-kle.in) </li>
-</ul>
-
-We gathered the data for this project using pytopsy, an original package built on top of standard python and Kenneth Reitz's Requests package, to facilitate and automate querying Topsy's REST API (which is in turn built on top of Twitter's Firehose API) as well as cleaning the query results for display. We display our findings using Mozilla's fantastic MetricsGraphicsjs library, which is built on top of d3. This page has been prettified courtesy of strapdownjs, and is written almost entirely in markdown. Links to all of these tools' respective sites are in the above list.
+-----
+We gathered the data for this project using [pytopsy](https://github.com/WillChilds-Klein/cpsc183-final/tree/master/pytopsy), an original package built by [Will Childs-Klein](http://will.childs-kle.in) on top of standard [python](https://www.python.org/) and Kenneth Reitz's [Requests](http://docs.python-requests.org/en/latest/) package, to facilitate and automate querying [Topsy's REST API](http://api.topsy.com/doc/resources/) (which is in turn built on top of [Twitter's Firehose API](https://dev.twitter.com/streaming/firehose)) as well as cleaning the query results for display. We display our findings using Mozilla's fantastic [metricsgraphicsjs](http://metricsgraphicsjs.org/) library, which is built on top of d3. This page has been prettified courtesy of [strapdownjs](http://strapdownjs.com/), and is written almost entirely in [markdown](https://help.github.com/articles/github-flavored-markdown/). 
 
 
 All code and data can be found on the project's GitHub [repository](https://github.com/WillChilds-Klein/cpsc183-final).

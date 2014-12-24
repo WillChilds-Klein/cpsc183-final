@@ -42,22 +42,39 @@ We've also included important dates in the patent troll world over the last 5 ye
     <div id='mentions1-2014_legend'></div>
 </div>
 
-|   Number  |   Description + Link                     |
-| --------- | ---------------------------------------- |
-| 1         | ["Nintendo defeats notorious patent troll after two-year legal battle"][1]
-| 2         | ["Microsoft Co-Founder Launches Patent War"][2]
-| 3         | [Lodsys Group Launches blog][3]
-| 4         | ["Patent Troll Says Anyone Using WiFi Infringes; Won't Sue Individuals 'At This Stage'"][4]
-| 5         | ["Patent troll claims ownership of interactive Web—and might win"][5]
-| 6         | ["Apple’s Siri, Google’s Voice Recognition Technology Targeted By Patent Troll"][6]
-| 7         | ["World’s biggest patent troll saves Kodak from bankruptcy"][7]
-| 8         | []
-| 9         |
-| 10        |
-| 11        |
-| 12        |
-| 13        |
-| 14        |
+<br>
+
+
+1. ["Nintendo defeats notorious patent troll after two-year legal battle"][1]
+1. ["Microsoft Co-Founder Launches Patent War"][2]
+1. [Lodsys Group Launches blog][3]
+1. ["Patent Troll Says Anyone Using WiFi Infringes; Won't Sue Individuals 'At This Stage'"][4]
+1. ["Patent troll claims ownership of interactive Web—and might win"][5]
+1. ["Apple’s Siri, Google’s Voice Recognition Technology Targeted By Patent Troll"][6]
+1. ["World’s biggest patent troll saves Kodak from bankruptcy"][7]
+1. ["How Newegg crushed the “shopping cart” patent and saved online retail"][8]
+1. ["Podcasting Community Faces Patent Troll Threat; EFF Wants to Help"][9]
+1. ["Why Rackspace Is Suing The Most Notorious Patent Troll In America"][10]
+1. ["Angry entrepreneur replies to patent troll with racketeering lawsuit"][11]
+1. ["House Passes Anti-Patent Troll Bill, Sends to Senate"][12]
+1. ["The Good, the Bad, and the Ugly of Adam Carolla’s Settlement with the Podcasting Troll"][11]
+1. ["Patent troll gives up, can’t defend “matchmaking” patent under new law"][14]
+
+
+[1]: http://www.infendo.com/nintendo-defeats-notorious-patent-troll-after-two-year-legal-battle/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+Infendo+%28Infendo%29
+[2]: http://www.wsj.com/news/articles/SB10001424052748703294904575385241453119382?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052748703294904575385241453119382.html
+[3]: http://www.lodsys.com/blog.html
+[4]: https://www.techdirt.com/blog/wireless/articles/20111001/00365416161/patent-troll-says-anyone-using-wifi-infringes-wont-sue-individuals-this-stage.shtml?utm_source=dlvr.it&utm_medium=twitter
+[5]: http://arstechnica.com/tech-policy/2012/02/patent-troll-claims-ownership-of-interactive-weband-might-win/
+[6]: http://techcrunch.com/2012/10/03/apples-siri-googles-voice-recognition-technology-targeted-by-patent-troll/
+[7]: http://arstechnica.com/tech-policy/2012/12/worlds-biggest-patent-troll-saves-kodak-from-bankruptcy/
+[8]: http://arstechnica.com/tech-policy/2013/01/how-newegg-crushed-the-shopping-cart-patent-and-saved-online-retail/
+[9]: https://www.eff.org/deeplinks/2013/02/podcasting-community-faces-patent-troll-threat-eff-wants-help
+[10]: http://www.rackspace.com/blog/why-rackspace-sued-the-most-notorious-patent-troll-in-america/
+[11]: http://arstechnica.com/tech-policy/2013/09/angry-entrepreneur-replies-to-patent-troll-with-racketeering-lawsuit/
+[12]: http://www.entrepreneur.com/article/230258?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+entrepreneur%2Flatest+%28Entrepreneur%29
+[13]: https://www.eff.org/deeplinks/2014/08/good-bad-and-ugly-adam-carollas-settlement-podcasting-troll
+[14]: http://arstechnica.com/tech-policy/2014/09/lumen-view-gives-up-on-matchmaking-patent-cant-defend-it-under-new-law/?utm_content=bufferd1399&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 
 ---

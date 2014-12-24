@@ -50,13 +50,13 @@ We've also included important dates in the patent troll world over the last 5 ye
 1. ["Patent troll claims ownership of interactive Web—and might win"][5]
 1. ["Apple’s Siri, Google’s Voice Recognition Technology Targeted By Patent Troll"][6]
 1. ["World’s biggest patent troll saves Kodak from bankruptcy"][7]
-1. ["How Newegg crushed the “shopping cart” patent and saved online retail"][8]
+1. ["How Newegg crushed the 'shopping cart' patent and saved online retail"][8]
 1. ["Podcasting Community Faces Patent Troll Threat; EFF Wants to Help"][9]
 1. ["Why Rackspace Is Suing The Most Notorious Patent Troll In America"][10]
 1. ["Angry entrepreneur replies to patent troll with racketeering lawsuit"][11]
 1. ["House Passes Anti-Patent Troll Bill, Sends to Senate"][12]
 1. ["The Good, the Bad, and the Ugly of Adam Carolla’s Settlement with the Podcasting Troll"][13]
-1. ["Patent troll gives up, can’t defend “matchmaking” patent under new law"][14]
+1. ["Patent troll gives up, can’t defend 'matchmaking' patent under new law"][14]
 
 
 [1]: http://www.infendo.com/nintendo-defeats-notorious-patent-troll-after-two-year-legal-battle/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+Infendo+%28Infendo%29

@@ -15,6 +15,9 @@ Patent Trolls in the Tweetosphere
 =================================
 
 
+---
+
+
 Twitter Keyword Mentions 
 ------------------------
 The figures below show a year-by-year breakdown of twitter mentions of particular keywords, as articulated by each graphic's respective legend. The sample size of each graphic is the entirety of the Twitter corpus for each graphic's respective year.
@@ -26,7 +29,7 @@ From the figure we see gradual inreases in the mentions of terms relating to pat
 The Alice Corp case was highly anticipated by major players in the technology and software industry, as well as lawyers involved in patent litigation, and preliminary studies have shown a decrease in patent lawsuits since the ruling. It may be too early to tell if this case was the main cause of the decline but the ruling was significant enough to believe that it may be shifting the tactics of many "patent trolls" as more dubious software patents are likely to be covering unpatentable ideas and processes. This, along with increased publicity as shown by the Twitter mention proxy we present in the figures, will change the rate at which companies settle lawsuits or choose to fight them in court. 
 
 
-We've also included important dates in the patent troll world over the last 5 years. Each landmark is denoted by a vertical line in the graph with a number associated with that line. The numbers correspond to the table at the end of this section. We've also made availabe the text and author info of the 10 most relevant tweets from the day of each prominent spike in mentions (over all 5 years) in the form of a `.json` file, which can be found [here](https://github.com/WillChilds-Klein/cpsc183-final/blob/master/data/spike_tweets_authors-CLEAN.json).
+We've also included important dates in the patent troll world over the last 5 years. Each landmark is denoted by a vertical line in the graph with a number associated with that line. The numbers correspond to the numbered list of relevant links at the end of this section. We've also made availabe the text and author info of the 10 most relevant tweets from the day of each prominent spike in mentions (over all 5 years, totalling ~700 tweets) in the form of a `.json` file, which can be found [here](https://github.com/WillChilds-Klein/cpsc183-final/blob/master/data/spike_tweets_authors-CLEAN.json).
 
 
 <div class='container' style='width: 1200px'>
@@ -42,6 +45,7 @@ We've also included important dates in the patent troll world over the last 5 ye
     <div id='mentions1-2014_legend'></div>
 </div>
 
+<br>
 
 1. ["Nintendo defeats notorious patent troll after two-year legal battle"][1]
 1. ["Microsoft Co-Founder Launches Patent War"][2]
@@ -89,7 +93,6 @@ Patent holding companies increased the most lawsuits of all eight categories des
 The data used for this section was gathered and made public as part of an academic study of non-practicing entities conducted by Christopher A. Cotropia, Jay P. Kesan, and David L. Schwartz. The website for their project can be found [here](http://npedata.com/), and the .csv files of their findings which we used can be found [here](https://github.com/WillChilds-Klein/cpsc183-final/tree/master/data/npe-data-project)
 
 
-
 2010
 ----
 | Patentee Category                          |E.D. Tex.  |D. Del.    |C.D. Cal.  |N.D. Cal.  |N.D. Ill.  |D.N.J.     |S.D.N.Y.   |D. Mass.   |M.D. Fla.  |D. Minn.   |Grand Total   |
@@ -118,7 +121,6 @@ The data used for this section was gathered and made public as part of an academ
 |**Grand Total**                             |19%        |17%        |13%        |11%        |11%        |10%        |6%         |5%         |4%         |4%         |
 
 
-<br>
 2012
 ----
 | Patentee Category                          |E.D. Tex.  |D. Del.    |C.D. Cal.  |N.D. Cal.  |N.D. Ill.  |D.N.J.     |S.D. Cal.  |S.D. Fla.  |S.D.N.Y.   |E.D. Va.   |Grand Total |
@@ -146,9 +148,9 @@ The data used for this section was gathered and made public as part of an academ
 |7. IP Holding company of operating company  |6%         |59%        |24%        |0%         |0%         |0%         |12%        |0%         |0%         |0%         |
 |**Grand Total**                             |33%        |26%        |12%        |7%         |6%         |4%         |4%         |3%         |3%         |2%         |
 
-<br>
+
 ---
-<br>
+
 
 Twitter Keyword Mentions by State (2010 - 2014)
 -----------------------------------------------

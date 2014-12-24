@@ -42,8 +42,6 @@ We've also included important dates in the patent troll world over the last 5 ye
     <div id='mentions1-2014_legend'></div>
 </div>
 
-<br>
-
 
 1. ["Nintendo defeats notorious patent troll after two-year legal battle"][1]
 1. ["Microsoft Co-Founder Launches Patent War"][2]
@@ -57,7 +55,7 @@ We've also included important dates in the patent troll world over the last 5 ye
 1. ["Why Rackspace Is Suing The Most Notorious Patent Troll In America"][10]
 1. ["Angry entrepreneur replies to patent troll with racketeering lawsuit"][11]
 1. ["House Passes Anti-Patent Troll Bill, Sends to Senate"][12]
-1. ["The Good, the Bad, and the Ugly of Adam Carolla’s Settlement with the Podcasting Troll"][11]
+1. ["The Good, the Bad, and the Ugly of Adam Carolla’s Settlement with the Podcasting Troll"][13]
 1. ["Patent troll gives up, can’t defend “matchmaking” patent under new law"][14]
 
 

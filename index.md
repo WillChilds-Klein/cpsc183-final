@@ -59,10 +59,10 @@ We've also included important dates in the patent troll world over the last 5 ye
 1. ["Patent troll gives up, can’t defend 'matchmaking' patent under new law"][14]
 
 
-[1]: http://www.infendo.com/nintendo-defeats-notorious-patent-troll-after-two-year-legal-battle/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed%3A+Infendo+%28Infendo%29
-[2]: http://www.wsj.com/news/articles/SB10001424052748703294904575385241453119382?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052748703294904575385241453119382.html
+[1]: http://www.infendo.com/nintendo-defeats-notorious-patent-troll-after-two-year-legal-battle/
+[2]: http://www.wsj.com/news/articles/SB10001424052748703294904575385241453119382
 [3]: http://www.lodsys.com/blog.html
-[4]: https://www.techdirt.com/blog/wireless/articles/20111001/00365416161/patent-troll-says-anyone-using-wifi-infringes-wont-sue-individuals-this-stage.shtml?utm_source=dlvr.it&utm_medium=twitter
+[4]: https://www.techdirt.com/blog/wireless/articles/20111001/00365416161/patent-troll-says-anyone-using-wifi-infringes-wont-sue-individuals-this-stage.shtml
 [5]: http://arstechnica.com/tech-policy/2012/02/patent-troll-claims-ownership-of-interactive-weband-might-win/
 [6]: http://techcrunch.com/2012/10/03/apples-siri-googles-voice-recognition-technology-targeted-by-patent-troll/
 [7]: http://arstechnica.com/tech-policy/2012/12/worlds-biggest-patent-troll-saves-kodak-from-bankruptcy/
@@ -70,9 +70,9 @@ We've also included important dates in the patent troll world over the last 5 ye
 [9]: https://www.eff.org/deeplinks/2013/02/podcasting-community-faces-patent-troll-threat-eff-wants-help
 [10]: http://www.rackspace.com/blog/why-rackspace-sued-the-most-notorious-patent-troll-in-america/
 [11]: http://arstechnica.com/tech-policy/2013/09/angry-entrepreneur-replies-to-patent-troll-with-racketeering-lawsuit/
-[12]: http://www.entrepreneur.com/article/230258?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+entrepreneur%2Flatest+%28Entrepreneur%29
+[12]: http://www.entrepreneur.com/article/230258
 [13]: https://www.eff.org/deeplinks/2014/08/good-bad-and-ugly-adam-carollas-settlement-podcasting-troll
-[14]: http://arstechnica.com/tech-policy/2014/09/lumen-view-gives-up-on-matchmaking-patent-cant-defend-it-under-new-law/?utm_content=bufferd1399&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[14]: http://arstechnica.com/tech-policy/2014/09/lumen-view-gives-up-on-matchmaking-patent-cant-defend-it-under-new-law/
 
 
 ---
